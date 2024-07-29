@@ -1,1030 +1,4114 @@
 [
-{ "name": "Guess Case", "value": "XXX" },
-{ "name": "Spigen Liquid Air", "value": "XXX" },
-{ "name": "Spigen Ultra Hybrid", "value": "20650" },
-{ "name": "Spigen Liquid Crystal", "value": "XXX" },
-{ "name": "Baseus MVP Elbow Type", "value": "XXX" },
-{ "name": "Spigen Rugged Armor", "value": "XXX" },
-{ "name": "Spigen Slim Armor CS", "value": "XXX" },
-{ "name": "Spigen Accessories", "value": "XXX" },
-{ "name": "Spigen Tough Armor", "value": "XXX" },
-{ "name": "Spigen Glas.tR Slim", "value": "XXX" },
-{ "name": "Baseus Gravity", "value": "XXX" },
-{ "name": "Spigen Glass FC", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone", "value": "XXX" },
-{ "name": "Karl Lagerfeld Choupette Fun", "value": "XXX" },
-{ "name": "Spigen Rugged Armor Pro", "value": "XXX" },
-{ "name": "Spigen Thin Fit", "value": "XXX" },
-{ "name": "Baseus Cafule", "value": "XXX" },
-{ "name": "Baseus Encok", "value": "XXX" },
-{ "name": "BMW Hardcase", "value": "XXX" },
-{ "name": "Mercedes Case", "value": "XXX" },
-{ "name": "Guess Saffiano", "value": "XXX" },
-{ "name": "Guess 4G Uptown", "value": "XXX" },
-{ "name": "Baseus Three Primary Colors", "value": "XXX" },
-{ "name": "Baseus Nimble", "value": "XXX" },
-{ "name": "Spigen Neo Flex HD", "value": "XXX" },
-{ "name": "Guess Glitter Hearts", "value": "XXX" },
-{ "name": "Baseus Magic Series", "value": "XXX" },
-{ "name": "Karl Lagerfeld Case", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Ikonik", "value": "XXX" },
-{ "name": "Karl Lagerfeld Glitter", "value": "XXX" },
-{ "name": "Nillkin Amazing H", "value": "XXX" },
-{ "name": "Guess California Glow in the dark", "value": "XXX" },
-{ "name": "Guess 4G", "value": "XXX" },
-{ "name": "Spigen Gearlock", "value": "XXX" },
-{ "name": "Spigen Neo Flex", "value": "XXX" },
-{ "name": "Guess Uptown", "value": "XXX" },
-{ "name": "Spigen Modern Fit Band", "value": "XXX" },
-{ "name": "Supcase Unicorn Beetle Pro", "value": "XXX" },
-{ "name": "Karl Lagerfeld Signature Glitter", "value": "XXX" },
-{ "name": "BMW Carbon & Blue Stripe", "value": "XXX" },
-{ "name": "Spigen ALM Glass FC", "value": "XXX" },
-{ "name": "BMW Signature", "value": "XXX" },
-{ "name": "Guess Iridescent 4G Peony", "value": "XXX" },
-{ "name": "Guess 4G Collection", "value": "XXX" },
-{ "name": "Guess Marble", "value": "XXX" },
-{ "name": "Guess Glitter Logo", "value": "XXX" },
-{ "name": "Guess 4G Peony Glitter", "value": "XXX" },
-{ "name": "Spigen Urban Fit", "value": "XXX" },
-{ "name": "Spigen Smart Fold", "value": "XXX" },
-{ "name": "Karl Lagerfeld Iconic Karl Embossed", "value": "XXX" },
-{ "name": "Guess Silicone Glitter", "value": "XXX" },
-{ "name": "Guess Iridescent", "value": "XXX" },
-{ "name": "Guess 4G Double Layer Glitter", "value": "XXX" },
-{ "name": "Guess California", "value": "XXX" },
-{ "name": "Guess Silicone 4G Tone On Tone", "value": "XXX" },
-{ "name": "Karl Lagerfeld Glitter Signature", "value": "XXX" },
-{ "name": "Kingxbar Angel", "value": "XXX" },
-{ "name": "Spigen Glas.tR EZ Fit Privacy", "value": "XXX" },
-{ "name": "Guess Glitter Gradient", "value": "XXX" },
-{ "name": "Guess 4G Glitter", "value": "XXX" },
-{ "name": "Spigen Silicone Fit", "value": "XXX" },
-{ "name": "Guess 4G Stripe Collection", "value": "XXX" },
-{ "name": "Guess Silicone Vintage Gold Logo", "value": "XXX" },
-{ "name": "Guess 4G Circle Glitter", "value": "XXX" },
-{ "name": "Guess Glitter 4G Circle Logo", "value": "XXX" },
-{ "name": "Guess Quilted", "value": "XXX" },
-{ "name": "BMW Accessories", "value": "XXX" },
-{ "name": "Guess Liquid Glitter Party", "value": "XXX" },
-{ "name": "Guess Glow in the Dark", "value": "XXX" },
-{ "name": "Guess Glitter Triangle", "value": "XXX" },
-{ "name": "Guess Gradient Liquid Glitter Circle Logo", "value": "XXX" },
-{ "name": "Guess Gradient Glitter", "value": "XXX" },
-{ "name": "Nillkin Amazing H+ Pro", "value": "XXX" },
-{ "name": "Spigen Neo Hybrid", "value": "XXX" },
-{ "name": "Guess 4G Liquid Glitter", "value": "XXX" },
-{ "name": "Guess N.1 Flower Collection", "value": "XXX" },
-{ "name": "Guess N.2 Flower Collection", "value": "XXX" },
-{ "name": "Guess N.3 Flower Collection", "value": "XXX" },
-{ "name": "Guess N.4 Flower Collection", "value": "XXX" },
-{ "name": "Guess Glitter", "value": "XXX" },
-{ "name": "Spigen ProFlex EZ Fit", "value": "XXX" },
-{ "name": "Karl Lagerfeld Gradient Ikonik Karl", "value": "XXX" },
-{ "name": "Kingxbar Lucky Series", "value": "XXX" },
-{ "name": "Kingxbar Agate Series", "value": "XXX" },
-{ "name": "Kingxbar Marble Series", "value": "XXX" },
-{ "name": "Kingxbar Sweet Series", "value": "XXX" },
-{ "name": "Guess Python Collection", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Choupette", "value": "XXX" },
-{ "name": "Nillkin Versatile Laptop Sleeve", "value": "XXX" },
-{ "name": "Ugreen", "value": "XXX" },
-{ "name": "Baseus Frosted Glass Case", "value": "XXX" },
-{ "name": "Ringke Fusion X", "value": "XXX" },
-{ "name": "BMW PU Carbon M Collection", "value": "XXX" },
-{ "name": "BMW Signature Printed Logo", "value": "XXX" },
-{ "name": "BMW Signature Logo Imprint", "value": "XXX" },
-{ "name": "BMW M Collection Smooth PU", "value": "XXX" },
-{ "name": "BMW Signature Tire Marks", "value": "XXX" },
-{ "name": "Karl Lagerfeld Karl Logo Glitter", "value": "XXX" },
-{ "name": "Karl Lagerfeld Mirror Liquid Glitter Karl", "value": "XXX" },
-{ "name": "Karl Lagerfeld Ikonik Liquid Glitter", "value": "XXX" },
-{ "name": "Karl Lagerfeld Karl's Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld Glitter Ikonik Karl", "value": "XXX" },
-{ "name": "Karl Lagerfeld Transparent Ikonik", "value": "XXX" },
-{ "name": "Guess Tie & Dye Collection", "value": "XXX" },
-{ "name": "Guess Metallic Collection", "value": "XXX" },
-{ "name": "Guess Gradient Liquid Glitter 4G", "value": "XXX" },
-{ "name": "Guess Glitter Charms", "value": "XXX" },
-{ "name": "Guess Jeans Collection", "value": "XXX" },
-{ "name": "Guess Triangle Collection", "value": "XXX" },
-{ "name": "Guess Gold Chain Collection", "value": "XXX" },
-{ "name": "Spigen Mag Armor", "value": "XXX" },
-{ "name": "Spigen Glas.tR EZ Fit", "value": "XXX" },
-{ "name": "Nillkin Aoge Leather Case", "value": "XXX" },
-{ "name": "Guess Marble Collection", "value": "XXX" },
-{ "name": "Guess 4G Triangle Collection", "value": "XXX" },
-{ "name": "Guess 4G Charms Collection", "value": "XXX" },
-{ "name": "Guess Silicone Script Gold Logo", "value": "XXX" },
-{ "name": "Guess Silicone Triangle Logo", "value": "XXX" },
-{ "name": "Guess Iridescent Love Script Gold Logo", "value": "XXX" },
-{ "name": "Guess V-Quilted Collection", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Karl's Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Ikonik Karl&Choupette Head", "value": "XXX" },
-{ "name": "Ugreen Protective Silicone Case", "value": "XXX" },
-{ "name": "Kingxbar 2.5D Tempered Glass", "value": "XXX" },
-{ "name": "Ringke Fusion X Design", "value": "XXX" },
-{ "name": "BMW Silicone Signature", "value": "XXX" },
-{ "name": "BMW Silicone Signature Logo", "value": "XXX" },
-{ "name": "Guess 4G 3D Pattern Collection", "value": "XXX" },
-{ "name": "Guess Script Python Collection", "value": "XXX" },
-{ "name": "Guess Nylon Triangle Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Ikonik Metal", "value": "XXX" },
-{ "name": "Karl Lagerfeld Iridescent Karl's Head", "value": "XXX" },
-{ "name": "Baseus Golden Contactor Pro", "value": "XXX" },
-{ "name": "Baseus Super Si", "value": "XXX" },
-{ "name": "BMW M Collection PU Carbon Stripe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Karl&Choupette", "value": "XXX" },
-{ "name": "Karl Lagerfeld Glitter Charms", "value": "XXX" },
-{ "name": "Baseus Paperlike Film", "value": "XXX" },
-{ "name": "Samsung Accessories", "value": "XXX" },
-{ "name": "Nillkin Super Frosted Shield", "value": "XXX" },
-{ "name": "Nillkin Qin", "value": "XXX" },
-{ "name": "Guess 4G Gradient", "value": "XXX" },
-{ "name": "Baseus Rapid Series 3in1", "value": "XXX" },
-{ "name": "Baseus Tungsten Gold", "value": "XXX" },
-{ "name": "Guess Script Vintage", "value": "XXX" },
-{ "name": "Guess Metal Logo Cord", "value": "XXX" },
-{ "name": "Guess Metal Logo Script", "value": "XXX" },
-{ "name": "Guess Glitter Gradient Script", "value": "XXX" },
-{ "name": "Ringke Onyx", "value": "XXX" },
-{ "name": "Spigen Ultra Hybrid Mag", "value": "20650" },
-{ "name": "Guess Silicone Vintage", "value": "XXX" },
-{ "name": "Guess Glitter Vintage Script", "value": "XXX" },
-{ "name": "Guess Silicone Script Metal Logo", "value": "XXX" },
-{ "name": "BMW Silicone M Collection", "value": "XXX" },
-{ "name": "BMW Silicone Stripes M Collection", "value": "XXX" },
-{ "name": "Baseus Superior Series", "value": "XXX" },
-{ "name": "Spigen Fit Lite", "value": "XXX" },
-{ "name": "Nillkin Textured Case", "value": "XXX" },
-{ "name": "Nillkin Nature", "value": "XXX" },
-{ "name": "Baseus Adaman", "value": "XXX" },
-{ "name": "Spigen Ultra Hybrid Pro", "value": "20650" },
-{ "name": "Ugreen Nexode", "value": "XXX" },
-{ "name": "Spigen MagFit", "value": "XXX" },
-{ "name": "Spigen Valentinus", "value": "XXX" },
-{ "name": "Joyroom New Beauty Series", "value": "XXX" },
-{ "name": "Joyroom Frigate Series", "value": "XXX" },
-{ "name": "Joyroom New Beautiful Series", "value": "XXX" },
-{ "name": "Joyroom Color Series", "value": "XXX" },
-{ "name": "Joyroom Crystal Series", "value": "XXX" },
-{ "name": "Karl Lagerfeld Karl&Choupette", "value": "XXX" },
-{ "name": "Kingxbar Blossom", "value": "XXX" },
-{ "name": "Guess Saffiano Vintage Script", "value": "XXX" },
-{ "name": "Karl Lagerfeld Iconik Karl", "value": "XXX" },
-{ "name": "Spigen Aqua Shield", "value": "XXX" },
-{ "name": "Karl Lagerfeld 3D Rubber Karl's Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld Accessories", "value": "XXX" },
-{ "name": "Karl Lagerfeld Glitter Choupette Fluo", "value": "XXX" },
-{ "name": "Karl Lagerfeld Magic Logo", "value": "XXX" },
-{ "name": "Guess 4G Metal Logo", "value": "XXX" },
-{ "name": "Kingxbar Watercolour Series", "value": "XXX" },
-{ "name": "Kingxbar Ombre Series", "value": "XXX" },
-{ "name": "Guess 4G Big Metal Logo", "value": "XXX" },
-{ "name": "Guess 4G Big Liquid Glitter", "value": "XXX" },
-{ "name": "Guess Glitter 4G Big Logo", "value": "XXX" },
-{ "name": "Guess Saffiano Script", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Stack Logo", "value": "XXX" },
-{ "name": "ESR Rebound Magnetic", "value": "XXX" },
-{ "name": "ESR Rebound Pencil", "value": "XXX" },
-{ "name": "ESR Tempered Glass", "value": "XXX" },
-{ "name": "ESR Halolock Magnetic", "value": "XXX" },
-{ "name": "Supcase Unicorn Beetle Pro Pen", "value": "XXX" },
-{ "name": "Tronsmart Onyx Ace Case", "value": "XXX" },
-{ "name": "Mercedes Pure Line", "value": "XXX" },
-{ "name": "Mercedes Pattern Line", "value": "XXX" },
-{ "name": "iCarer Case Leather Oil Wax", "value": "XXX" },
-{ "name": "iCarer Watch Strap Leather Vintage", "value": "XXX" },
-{ "name": "Guess Silicone Vintage Script", "value": "XXX" },
-{ "name": "Guess Camo Collection", "value": "XXX" },
-{ "name": "Guess Glitter Collection", "value": "XXX" },
-{ "name": "Guess Vintage Script Gold", "value": "XXX" },
-{ "name": "Guess 4G Silver Chain", "value": "XXX" },
-{ "name": "Guess Black Pearl", "value": "XXX" },
-{ "name": "Guess 4G Silver Charms Collection", "value": "XXX" },
-{ "name": "Guess Peony Chain Collection", "value": "XXX" },
-{ "name": "Guess Vintage Script Silver", "value": "XXX" },
-{ "name": "Guess Peony Collection", "value": "XXX" },
-{ "name": "Guess 4G Brown Strap Gold Chain", "value": "XXX" },
-{ "name": "Guess White Pearl", "value": "XXX" },
-{ "name": "Guess 4G Gold Chain", "value": "XXX" },
-{ "name": "Guess 4G Big Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld Choupette", "value": "XXX" },
-{ "name": "Karl Lagerfeld Glitter Choupette", "value": "XXX" },
-{ "name": "Spigen Klasden", "value": "XXX" },
-{ "name": "Guess Saffiano Script Metal Collection", "value": "XXX" },
-{ "name": "Guess 4G Script Metal Collection", "value": "XXX" },
-{ "name": "Nillkin Super Frosted Shield Pro", "value": "XXX" },
-{ "name": "Nillkin Synthetic Fiber Case", "value": "XXX" },
-{ "name": "Nillkin CP+PRO", "value": "XXX" },
-{ "name": "Nillkin Cyclops Case", "value": "XXX" },
-{ "name": "Kingxbar Streamer Series", "value": "XXX" },
-{ "name": "Kingxbar Travel Series", "value": "XXX" },
-{ "name": "Kingxbar Shell Series", "value": "XXX" },
-{ "name": "Kingxbar Moon Series", "value": "XXX" },
-{ "name": "Guess Saffiano Collection", "value": "XXX" },
-{ "name": "Ugreen Fusion Kickstand Case", "value": "XXX" },
-{ "name": "Kingxbar Epoxy Series", "value": "XXX" },
-{ "name": "Joyroom New T Case", "value": "XXX" },
-{ "name": "Joyroom Chery Mirror Case", "value": "XXX" },
-{ "name": "Joyroom 360 Full Case", "value": "XXX" },
-{ "name": "Spigen Rugged Band", "value": "XXX" },
-{ "name": "Spigen Airskin", "value": "XXX" },
-{ "name": "AMG Leather Hot Stamped", "value": "XXX" },
-{ "name": "BMW Genuine Leather Silver Logo", "value": "XXX" },
-{ "name": "BMW Leather Deboss", "value": "XXX" },
-{ "name": "BMW Leather Curve Perforate", "value": "XXX" },
-{ "name": "BMW Leather Perforate", "value": "XXX" },
-{ "name": "BMW Sandblast", "value": "XXX" },
-{ "name": "BMW Leather Perforate Sides", "value": "XXX" },
-{ "name": "BMW Motorsport Tricolor", "value": "XXX" },
-{ "name": "Spigen PowerArc", "value": "XXX" },
-{ "name": "Baseus Full-frame Lens Film", "value": "XXX" },
-{ "name": "Baseus Simple", "value": "XXX" },
-{ "name": "Baseus Glitter", "value": "XXX" },
-{ "name": "Baseus Crystal Case", "value": "XXX" },
-{ "name": "Kingxbar Crystal Fabric Band", "value": "XXX" },
-{ "name": "Kingxbar Magnetic Band", "value": "XXX" },
-{ "name": "Joyroom Defender Series", "value": "XXX" },
-{ "name": "BMW M Collection Triangles", "value": "XXX" },
-{ "name": "Guess 4G Stripe", "value": "XXX" },
-{ "name": "Guess Saffiano Stripe", "value": "XXX" },
-{ "name": "Guess Saffiano 4G Metal Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld Glitter Karl's Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld Ikonik Karl&Choupette", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Karl&Choupette", "value": "XXX" },
-{ "name": "AMG Leather Debossed Lines", "value": "XXX" },
-{ "name": "BMW Signature Collection", "value": "XXX" },
-{ "name": "Guess 4G Grey Strap Charm", "value": "XXX" },
-{ "name": "Guess Saffiano Strap", "value": "XXX" },
-{ "name": "Guess 4G Gold Charms Collection", "value": "XXX" },
-{ "name": "Guess 4G Ring Stand", "value": "XXX" },
-{ "name": "Karl Lagerfeld Liquid Glitter Choupette Fun", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Ikonik Karl's Head", "value": "XXX" },
-{ "name": "Spigen Crystal Pack", "value": "XXX" },
-{ "name": "Spigen Optik.tR Camera Protector", "value": "XXX" },
-{ "name": "Supcase IBLSN Ares", "value": "XXX" },
-{ "name": "Supcase IBLSN Cosmo Snap", "value": "XXX" },
-{ "name": "Supcase UB Edge Pro", "value": "XXX" },
-{ "name": "Joyroom Magnetic Defender Series", "value": "XXX" },
-{ "name": "Baseus Crystal Shine Series", "value": "XXX" },
-{ "name": "Baseus Bowie", "value": "XXX" },
-{ "name": "Kingxbar Plain Series", "value": "XXX" },
-{ "name": "Guess Peony Liquid Glitter", "value": "XXX" },
-{ "name": "Guess Leopard Gold Chain", "value": "XXX" },
-{ "name": "Guess Marble Strap Collection", "value": "XXX" },
-{ "name": "Guess Croco Strap Collection", "value": "XXX" },
-{ "name": "Karl Lagerfeld Choupette Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld Glitter Karl's & Choupette Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld Liquid Glitter Karl&Choupette Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld Leather Ikonik Karl's Head Metal", "value": "XXX" },
-{ "name": "Spigen Glas.tR EZ Fit AntiBlue", "value": "XXX" },
-{ "name": "ESR Ascend Trifold", "value": "XXX" },
-{ "name": "ESR Classic Hybrid", "value": "XXX" },
-{ "name": "Kingxbar PQY Silicone Series", "value": "XXX" },
-{ "name": "Spigen DuraPro", "value": "XXX" },
-{ "name": "Guess Leopard", "value": "XXX" },
-{ "name": "Karl Lagerfeld Ikonik Choupette", "value": "XXX" },
-{ "name": "Spigen Glas.tR Slim Privacy", "value": "XXX" },
-{ "name": "Spigen OneTap", "value": "XXX" },
-{ "name": "Nillkin Qin Leather Pro", "value": "XXX" },
-{ "name": "Nillkin Nature Pro", "value": "XXX" },
-{ "name": "Nillkin CamShield Case", "value": "XXX" },
-{ "name": "Nillkin CamShield Pro Case", "value": "XXX" },
-{ "name": "Joyroom Mingkai Series", "value": "XXX" },
-{ "name": "Guess Camo Strap Collection", "value": "XXX" },
-{ "name": "Guess 4G Grey Strap Silver Chain", "value": "XXX" },
-{ "name": "Guess Silicone 4G Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Karl Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Ikonik Karl's Patch", "value": "XXX" },
-{ "name": "Kingxbar Plush Pods Case", "value": "XXX" },
-{ "name": "iCarer Haitang Leather Wallet Case", "value": "XXX" },
-{ "name": "Supcase Cosmo", "value": "XXX" },
-{ "name": "Canvaslife Briefcase", "value": "XXX" },
-{ "name": "Canvaslife Sleeve", "value": "XXX" },
-{ "name": "Spigen ALM Glas.tR", "value": "XXX" },
-{ "name": "Ringke Smart Zip Pouch", "value": "XXX" },
-{ "name": "BMW Leather Emboss", "value": "XXX" },
-{ "name": "Karl Lagerfeld 3D Rubber Choupette", "value": "XXX" },
-{ "name": "Karl Lagerfeld Peek-A-Boo Liquid Glitter", "value": "XXX" },
-{ "name": "ESR Camera Protector", "value": "XXX" },
-{ "name": "Samsung Frame Cover", "value": "XXX" },
-{ "name": "Samsung Silicone Case", "value": "XXX" },
-{ "name": "Samsung Leather Cover", "value": "XXX" },
-{ "name": "Ringke Folio Signature", "value": "XXX" },
-{ "name": "Guess Silicone Charm 4G Collection", "value": "XXX" },
-{ "name": "Guess Silicone Charm Heart Collection", "value": "XXX" },
-{ "name": "Guess Charm 4G Collection", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Karl&Choupette Heads", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Karl Heads", "value": "XXX" },
-{ "name": "ESR Camera Lens", "value": "XXX" },
-{ "name": "AMG Carbon Stripe&Embossed", "value": "XXX" },
-{ "name": "Guess 4G Metal Gold Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Choupette Head", "value": "XXX" },
-{ "name": "Baseus 0,3 mm Crystal Full-glass", "value": "XXX" },
-{ "name": "Ringke Fusion Matte", "value": "XXX" },
-{ "name": "Nillkin Adventurer Case", "value": "XXX" },
-{ "name": "BMW Carbon & Red Stripe", "value": "XXX" },
-{ "name": "Kingxbar PQY Fluorescence Series", "value": "XXX" },
-{ "name": "Kingxbar PQY Elegant Series", "value": "XXX" },
-{ "name": "Samsung Soft Clear Cover", "value": "XXX" },
-{ "name": "Choetech MFM Case", "value": "XXX" },
-{ "name": "Kingxbar Starry Series", "value": "XXX" },
-{ "name": "Guess 4G Collection MagSafe", "value": "XXX" },
-{ "name": "Guess Silicone Script Gold Logo MagSafe", "value": "XXX" },
-{ "name": "Guess 4G Uptown Triangle Logo", "value": "XXX" },
-{ "name": "Guess Saffiano Triangle Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld Choupette Eat", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Karl&Choupette Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Ikonik Karl&Choupette", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Ikonik Karl&Choupette MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Karl&Choupette MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Ikonik Karl", "value": "XXX" },
-{ "name": "Karl Lagerfeld Ikonik Karl's Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano RSG", "value": "XXX" },
-{ "name": "Baseus Dynamic Series", "value": "XXX" },
-{ "name": "Samsung Strap Silicone Cover", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Ikonik Choupette Head", "value": "XXX" },
-{ "name": "Spigen Optik Armor", "value": "XXX" },
-{ "name": "Spigen Cyrill Cecile", "value": "XXX" },
-{ "name": "Baseus Bipow", "value": "XXX" },
-{ "name": "Nillkin SnapLink", "value": "XXX" },
-{ "name": "ESR Digital", "value": "XXX" },
-{ "name": "Supcase Unicorn Beetle Clear", "value": "XXX" },
-{ "name": "Spigen Rugged Armor Pouch Pro", "value": "XXX" },
-{ "name": "Guess Heishi Beads", "value": "XXX" },
-{ "name": "Guess Saffiano Hot Stamp & Metal Logo", "value": "XXX" },
-{ "name": "Guess Accessories", "value": "XXX" },
-{ "name": "Karl Lagerfeld Liquid Glitter Gatsby", "value": "XXX" },
-{ "name": "Karl Lagerfeld Karl&Choupette Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld Flower Ikonik Karl", "value": "XXX" },
-{ "name": "Kingxbar New Chameleon Band", "value": "XXX" },
-{ "name": "Baseus Qpow", "value": "XXX" },
-{ "name": "Guess Flower Liquid Glitter", "value": "XXX" },
-{ "name": "Guess Silicone Triangle", "value": "XXX" },
-{ "name": "Guess Paisley Liquid Glitter", "value": "XXX" },
-{ "name": "Karl Lagerfeld Karl&Choupette Ikonik 3D", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Plaque", "value": "XXX" },
-{ "name": "Baseus Bipow Pro", "value": "XXX" },
-{ "name": "Baseus High Definition Series", "value": "XXX" },
-{ "name": "Baseus Brilliance Series", "value": "XXX" },
-{ "name": "Guess Translucent Strap", "value": "XXX" },
-{ "name": "Karl Lagerfeld Gradient Ikonik Karl&Choupette", "value": "XXX" },
-{ "name": "ESR Halolock MagSafe", "value": "XXX" },
-{ "name": "Guess Paisley Strap Collection", "value": "XXX" },
-{ "name": "Guess Strap Collection", "value": "XXX" },
-{ "name": "Guess Flower Strap Collection", "value": "XXX" },
-{ "name": "Guess Flower Strap", "value": "XXX" },
-{ "name": "Guess 4G Print Strap", "value": "XXX" },
-{ "name": "Guess Flower Collection", "value": "XXX" },
-{ "name": "Guess Ring Stand", "value": "XXX" },
-{ "name": "Karl Lagerfeld Allover", "value": "XXX" },
-{ "name": "Kingxbar Elegant Series", "value": "XXX" },
-{ "name": "Kingxbar Sparkle Series", "value": "XXX" },
-{ "name": "iCarer Oil Wax Premium Leather Case", "value": "XXX" },
-{ "name": "iCarer Case Leather MagSafe", "value": "XXX" },
-{ "name": "iCarer Litchi Premium Leather Case", "value": "XXX" },
-{ "name": "iCarer CE Oil Wax Premium Leather Folio Case", "value": "XXX" },
-{ "name": "iCarer CE Premium Leather Folio Case", "value": "XXX" },
-{ "name": "iCarer Oil Wax Wallet Case (RFID 2in1 Detachable)", "value": "XXX" },
-{ "name": "iCarer Wallet Case (RFID 2in1 Detachable)", "value": "XXX" },
-{ "name": "ESR Halolock CryoBoost", "value": "XXX" },
-{ "name": "Ringke Fusion Bumper", "value": "XXX" },
-{ "name": "Ringke Fusion", "value": "XXX" },
-{ "name": "Ringke Fusion Magnetic", "value": "XXX" },
-{ "name": "Ringke Air", "value": "XXX" },
-{ "name": "Ringke Silicone", "value": "XXX" },
-{ "name": "Samsung Flap Leather Cover", "value": "XXX" },
-{ "name": "Spigen Airskin Hybrid", "value": "XXX" },
-{ "name": "Spigen Slim Armor Pro", "value": "XXX" },
-{ "name": "Nillkin Qin Cloth Pro Case", "value": "XXX" },
-{ "name": "Nillkin Nature Pro Magnetic Case", "value": "XXX" },
-{ "name": "Nillkin CamShield Pro Magnetic Case", "value": "XXX" },
-{ "name": "Nillkin CamShield Armor Pro Case", "value": "XXX" },
-{ "name": "Nillkin CamShield Armor Pro Magnetic Case", "value": "XXX" },
-{ "name": "Nillkin Super Frosted Shield Pro Magnetic Case", "value": "XXX" },
-{ "name": "Nillkin CamShield Magnetic Silicone Case", "value": "XXX" },
-{ "name": "Nillkin CamShield Silky Silicone Case", "value": "XXX" },
-{ "name": "Nillkin CamShield Leather S Case", "value": "XXX" },
-{ "name": "Nillkin Synthetic Fiber S Case", "value": "XXX" },
-{ "name": "Nillkin Textured S Magnetic Case", "value": "XXX" },
-{ "name": "Nillkin Textured S Case", "value": "XXX" },
-{ "name": "Spigen Glas.tR EZ Fit FC", "value": "XXX" },
-{ "name": "Spigen Crystal Hybrid", "value": "XXX" },
-{ "name": "Kingxbar Miya Series", "value": "XXX" },
-{ "name": "Kingxbar Heart Star Series", "value": "XXX" },
-{ "name": "Kingxbar Butterfly Series", "value": "XXX" },
-{ "name": "Kingxbar Flora Series", "value": "XXX" },
-{ "name": "Kingxbar Wish Series", "value": "XXX" },
-{ "name": "Kingxbar PQY Go Out Series", "value": "XXX" },
-{ "name": "Kingxbar PQY Geek Series", "value": "XXX" },
-{ "name": "Kingxbar PQY Ice Crystal Series", "value": "XXX" },
-{ "name": "Kingxbar CYF148", "value": "XXX" },
-{ "name": "Kingxbar CYF136", "value": "XXX" },
-{ "name": "Kingxbar CYF140", "value": "XXX" },
-{ "name": "Kingxbar CYF134", "value": "XXX" },
-{ "name": "Kingxbar CYF537", "value": "XXX" },
-{ "name": "Kingxbar CYF106", "value": "XXX" },
-{ "name": "Nillkin Pure Series AR Film", "value": "XXX" },
-{ "name": "Joyroom Mirror Lens Protector", "value": "XXX" },
-{ "name": "Joyroom Knight 2,5D FS TG", "value": "XXX" },
-{ "name": "Joyroom Knight 2,5D TG", "value": "XXX" },
-{ "name": "Joyroom Knight 2,5D Privacy TG", "value": "XXX" },
-{ "name": "Joyroom Knight Anti Blue Light", "value": "XXX" },
-{ "name": "Joyroom 14X Case", "value": "XXX" },
-{ "name": "Joyroom 14D Case", "value": "XXX" },
-{ "name": "Joyroom 14D Magnetic Case", "value": "XXX" },
-{ "name": "Joyroom 14Q Case", "value": "XXX" },
-{ "name": "Caseology Parallax Mag", "value": "XXX" },
-{ "name": "Spigen Core Armor", "value": "XXX" },
-{ "name": "Supcase IBLSN Armorbox", "value": "XXX" },
-{ "name": "Spigen Cyrill Color Brick", "value": "XXX" },
-{ "name": "Spigen Linear", "value": "XXX" },
-{ "name": "ESR Air Shield Boost", "value": "XXX" },
-{ "name": "ESR Air Armor", "value": "XXX" },
-{ "name": "ESR Project Zero", "value": "XXX" },
-{ "name": "ESR Air Armor Halolock", "value": "XXX" },
-{ "name": "ESR Classic Hybrid Halolock", "value": "XXX" },
-{ "name": "Spigen Cyrill Cecile Mag", "value": "XXX" },
-{ "name": "Spigen Rugged Armor Mag", "value": "XXX" },
-{ "name": "Caseology Skyfall", "value": "XXX" },
-{ "name": "Spigen Tough Armor MagSafe", "value": "XXX" },
-{ "name": "Spigen Cyrill Ultra Color Mag", "value": "XXX" },
-{ "name": "Spigen Ultra Hybrid S", "value": "20650" },
-{ "name": "Spigen Quartz Hybrid", "value": "XXX" },
-{ "name": "Spigen Cyrill Shine Mag", "value": "XXX" },
-{ "name": "Spigen Cyrill Classic Charm Mag", "value": "XXX" },
-{ "name": "Spigen Cyrill Kajuk Mag", "value": "XXX" },
-{ "name": "Spigen Optik Armor MagSafe", "value": "XXX" },
-{ "name": "Spigen Silicone Fit Mag", "value": "XXX" },
-{ "name": "Spigen Glas.tR EZ Fit Optik Camera Protector", "value": "XXX" },
-{ "name": "BMW Silicone Metal Logo", "value": "XXX" },
-{ "name": "Guess Glitter Script", "value": "XXX" },
-{ "name": "Guess 4G Pattern Script", "value": "XXX" },
-{ "name": "Guess Translucent Pearl Strap", "value": "XXX" },
-{ "name": "Karl Lagerfeld Leather Perforated Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Choupette Head Patch", "value": "XXX" },
-{ "name": "Karl Lagerfeld 3D Monogram", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Karl's Head Patch", "value": "XXX" },
-{ "name": "Karl Lagerfeld Liquid Glitter Big KL", "value": "XXX" },
-{ "name": "Karl Lagerfeld Liquid Glitter Elong", "value": "XXX" },
-{ "name": "Ugreen Bright Cushion Protective Case", "value": "XXX" },
-{ "name": "Ugreen Classy Clear Enhanced Protective Case", "value": "XXX" },
-{ "name": "Ugreen Silky Silicone Protective Case", "value": "XXX" },
-{ "name": "Supcase UB Pro Mag", "value": "XXX" },
-{ "name": "Joyroom Dual Hinge", "value": "XXX" },
-{ "name": "Spigen Neo Hybrid S Pen", "value": "XXX" },
-{ "name": "Spigen ALM Glas.tR Slim", "value": "XXX" },
-{ "name": "Spigen Cyrill Kajuk", "value": "XXX" },
-{ "name": "ESR Ice Shield", "value": "XXX" },
-{ "name": "Supcase Edge XT", "value": "XXX" },
-{ "name": "Supcase Unicorn Beetle", "value": "XXX" },
-{ "name": "BMW Leather Carbon", "value": "XXX" },
-{ "name": "BMW Leather Stamp Tricolor", "value": "XXX" },
-{ "name": "BMW Leather Stamp", "value": "XXX" },
-{ "name": "BMW Leather Stamp Tricolor MagSafe", "value": "XXX" },
-{ "name": "BMW Signature Logo Imprint MagSafe", "value": "XXX" },
-{ "name": "BMW Silicone Signature Logo MagSafe", "value": "XXX" },
-{ "name": "Guess Saffiano Triangle Logo Cardslot", "value": "XXX" },
-{ "name": "Guess Saffiano 4G Small Metal Logo", "value": "XXX" },
-{ "name": "Guess 4G Vintage Gold Logo", "value": "XXX" },
-{ "name": "Guess Translucent", "value": "XXX" },
-{ "name": "Guess Porcelain Collection", "value": "XXX" },
-{ "name": "Guess Bandana Paisley", "value": "XXX" },
-{ "name": "Guess Croco Collection", "value": "XXX" },
-{ "name": "Guess Jungle Collection", "value": "XXX" },
-{ "name": "Guess Liquid Glitter Palm Collection", "value": "XXX" },
-{ "name": "Guess Peony Glitter", "value": "XXX" },
-{ "name": "Guess Metal Outline MagSafe", "value": "XXX" },
-{ "name": "Guess 4G Logo Plate MagSafe", "value": "XXX" },
-{ "name": "Guess Gold Outline Translucent MagSafe", "value": "XXX" },
-{ "name": "Guess Silicone Logo Plate MagSafe", "value": "XXX" },
-{ "name": "Guess Saffiano 4G Triangle Logo", "value": "XXX" },
-{ "name": "Guess Triangle 4G", "value": "XXX" },
-{ "name": "Guess Saffiano Triangle", "value": "XXX" },
-{ "name": "Karl Lagerfeld Ikonik Patch", "value": "XXX" },
-{ "name": "Karl Lagerfeld Monogram Plaque", "value": "XXX" },
-{ "name": "Karl Lagerfeld Multipink Brand", "value": "XXX" },
-{ "name": "Karl Lagerfeld Leather Textured and Chain", "value": "XXX" },
-{ "name": "Karl Lagerfeld Perforated Allover", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Plaque", "value": "XXX" },
-{ "name": "Karl Lagerfeld Glitter Plaque Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld Glitter Flakes Ikonik", "value": "XXX" },
-{ "name": "Karl Lagerfeld Liquid Glitter RSG", "value": "XXX" },
-{ "name": "Karl Lagerfeld Monogram Iridescent", "value": "XXX" },
-{ "name": "Karl Lagerfeld Liquid Glitter Monogram", "value": "XXX" },
-{ "name": "Karl Lagerfeld Monogram Stripe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Puffy Ikonik Pin", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Choupette Body", "value": "XXX" },
-{ "name": "Karl Lagerfeld Color Stripes Strap", "value": "XXX" },
-{ "name": "Karl Lagerfeld Choupette Body", "value": "XXX" },
-{ "name": "Karl Lagerfeld Mono Vertical Stripe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Puffy Elongated Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Mono Metal Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld Karl&Choupette Aluminium MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Karl's Head MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Plaque MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Choupette Head MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Choupette Heads", "value": "XXX" },
-{ "name": "BMW Carbon Tricolor", "value": "XXX" },
-{ "name": "BMW Perforated", "value": "XXX" },
-{ "name": "Spigen Slim Armor Pro Pen", "value": "XXX" },
-{ "name": "AMG Silicone Big Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone RSG", "value": "XXX" },
-{ "name": "Karl Lagerfeld Liquid Silicone Karl&Choupette MagSafe", "value": "XXX" },
-{ "name": "Spigen Wallet S", "value": "XXX" },
-{ "name": "Supcase UB Mag", "value": "XXX" },
-{ "name": "Spigen Thin Fit 360", "value": "XXX" },
-{ "name": "Spigen Geo Armor 360 Mag", "value": "XXX" },
-{ "name": "Baseus Glimmer Series", "value": "XXX" },
-{ "name": "Baseus Magnetic Mini", "value": "XXX" },
-{ "name": "ESR Classic Kickstand", "value": "XXX" },
-{ "name": "ESR Krystec", "value": "XXX" },
-{ "name": "ESR Classic Kickstand Halolock", "value": "XXX" },
-{ "name": "ESR Krystec Halolock", "value": "XXX" },
-{ "name": "ESR Screen Shield", "value": "XXX" },
-{ "name": "ESR Paper Feel", "value": "XXX" },
-{ "name": "ESR Bounce", "value": "XXX" },
-{ "name": "ESR Cyber Armor Halolock", "value": "XXX" },
-{ "name": "ESR Orbit Halolock", "value": "XXX" },
-{ "name": "ESR Ascend Hybrid", "value": "XXX" },
-{ "name": "AMG Leather Big Logo", "value": "XXX" },
-{ "name": "AMG Leather Curved Lines", "value": "XXX" },
-{ "name": "Guess 4G Triangle Logo Cardslot", "value": "XXX" },
-{ "name": "Guess Peony Logo Plate MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Karlimals Cardslot", "value": "XXX" },
-{ "name": "Karl Lagerfeld Ikonik Karl", "value": "XXX" },
-{ "name": "Karl Lagerfeld Glitter Karl&Choupette", "value": "XXX" },
-{ "name": "Karl Lagerfeld Signature Logo Cardslot", "value": "XXX" },
-{ "name": "Karl Lagerfeld Glitter Choupette Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld Iconic Karl&Choupette MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Ikonik MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Metal Karl Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld Ikonik Karl Monogram Patch", "value": "XXX" },
-{ "name": "Guess 4G Print MagSafe", "value": "XXX" },
-{ "name": "Guess Jungle MagSafe", "value": "XXX" },
-{ "name": "Guess Marble MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Glitter Choupette Patch", "value": "XXX" },
-{ "name": "Karl Lagerfeld Monogram Ikonik Patch", "value": "XXX" },
-{ "name": "Karl Lagerfeld Monogram Plaque Logo Strap", "value": "XXX" },
-{ "name": "Nillkin CamShield S Case", "value": "XXX" },
-{ "name": "Nillkin Bevel Leather Case", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Choupette MagSafe", "value": "XXX" },
-{ "name": "Samsung Screen Protector", "value": "XXX" },
-{ "name": "Samsung Clear Case", "value": "XXX" },
-{ "name": "Samsung Haze Grip Case", "value": "XXX" },
-{ "name": "Samsung Smart View Wallet Case", "value": "XXX" },
-{ "name": "Samsung S-Pen", "value": "XXX" },
-{ "name": "Samsung Silicone Grip Cover", "value": "XXX" },
-{ "name": "Samsung Rugged Gadget Case", "value": "XXX" },
-{ "name": "Samsung Clear Gadget Case", "value": "XXX" },
-{ "name": "Joyroom Jelly Series", "value": "XXX" },
-{ "name": "Baseus 0.3mm Privacy Protection Tempered Glass", "value": "XXX" },
-{ "name": "Baseus 0.3mm Eye-Protection Tempered Glass", "value": "XXX" },
-{ "name": "Baseus 0.3mm Tempered Glass", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Karl&Choupette Embossed", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Metal Karl Head", "value": "XXX" },
-{ "name": "Baseus Camera Glass", "value": "XXX" },
-{ "name": "Spigen Optik Crystal", "value": "XXX" },
-{ "name": "Spigen Tough Armor Pro", "value": "XXX" },
-{ "name": "Spigen Airskin Hybrid S", "value": "XXX" },
-{ "name": "Spigen Paper Touch", "value": "XXX" },
-{ "name": "Spigen Liquid Air Folio", "value": "XXX" },
-{ "name": "Spigen Metal Fit Pro", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Choupette Head 3D", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Karl Head 3D", "value": "XXX" },
-{ "name": "ESR Shock Armor Kickstand", "value": "XXX" },
-{ "name": "Guess 4G Printed Stripes", "value": "XXX" },
-{ "name": "BMW Leather Textured & Stripe", "value": "XXX" },
-{ "name": "Guess Glitter Flake 4G Charm", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Monogram Choupette", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Monogram Ikonik", "value": "XXX" },
-{ "name": "Spigen Wallet S Plus", "value": "XXX" },
-{ "name": "Spigen Cyrill Ultra Color", "value": "XXX" },
-{ "name": "Spigen Slim Armor", "value": "XXX" },
-{ "name": "Samsung Note View Cover", "value": "XXX" },
-{ "name": "Spigen Cryo Armor", "value": "XXX" },
-{ "name": "Spigen Silicone Fit Strap", "value": "XXX" },
-{ "name": "Spigen ArcField", "value": "XXX" },
-{ "name": "Guess Golden Marble Collection", "value": "XXX" },
-{ "name": "Guess CBDY Strap", "value": "XXX" },
-{ "name": "Guess CBDY Cord", "value": "XXX" },
-{ "name": "Spigen Glas.tR Platinum", "value": "XXX" },
-{ "name": "Nillkin CamShield Silky Magnetic Silicone Case", "value": "XXX" },
-{ "name": "Nillkin CamShield S Magnetic Case", "value": "XXX" },
-{ "name": "Nillkin Strap Case", "value": "XXX" },
-{ "name": "Spigen Ultra Hybrid OneTap Ring", "value": "20650" },
-{ "name": "BMW Case", "value": "XXX" },
-{ "name": "BMW Leather Stamp Blue Lines", "value": "XXX" },
-{ "name": "BMW Tricolor M Collection", "value": "XXX" },
-{ "name": "BMW Leather Blue Dots", "value": "XXX" },
-{ "name": "BMW Leather Diamond Pattern", "value": "XXX" },
-{ "name": "BMW Leather Quilted", "value": "XXX" },
-{ "name": "BMW Leather Card Slot", "value": "XXX" },
-{ "name": "BMW Quilted Tricolor", "value": "XXX" },
-{ "name": "BMW Silicone Slanted Stripes", "value": "XXX" },
-{ "name": "BMW Leather Seats Pattern", "value": "XXX" },
-{ "name": "BMW Leather Diamond Pattern MagSafe", "value": "XXX" },
-{ "name": "BMW Leather Seats Pattern MagSafe", "value": "XXX" },
-{ "name": "BMW Silicone Metal Logo MagSafe", "value": "XXX" },
-{ "name": "BMW Leather Hot Stamp MagSafe", "value": "XXX" },
-{ "name": "Baseus 0.4mm Privacy Protection Tempered Glass", "value": "XXX" },
-{ "name": "Baseus 0.4mm Tempered Glass", "value": "XXX" },
-{ "name": "ESR Halolock", "value": "XXX" },
-{ "name": "BMW Carbon&Perforated", "value": "XXX" },
-{ "name": "BMW Carbon&Nylon Tricolor", "value": "XXX" },
-{ "name": "Nillkin Qin Leather", "value": "XXX" },
-{ "name": "Baseus Synthetic Fiber", "value": "XXX" },
-{ "name": "Baseus Corning Case", "value": "XXX" },
-{ "name": "Baseus Simple 2 Case", "value": "XXX" },
-{ "name": "Baseus Super Energy", "value": "XXX" },
-{ "name": "BMW Leather Curved Line", "value": "XXX" },
-{ "name": "BMW Multiple Colored Lines", "value": "XXX" },
-{ "name": "BMW Carbon Double Metal Logo", "value": "XXX" },
-{ "name": "BMW Tricolor Stripes", "value": "XXX" },
-{ "name": "BMW Silver Ring MagSafe", "value": "XXX" },
-{ "name": "BMW Tricolor Stripes MagSafe", "value": "XXX" },
-{ "name": "BMW Pattern MagSafe", "value": "XXX" },
-{ "name": "BMW Gradient Bumper MagSafe", "value": "XXX" },
-{ "name": "Guess 4G Stripe Allover", "value": "XXX" },
-{ "name": "BMW IML Tricolor Stripe", "value": "XXX" },
-{ "name": "Guess Liquid Glitter 4G Transculent", "value": "XXX" },
-{ "name": "Guess Liquid Glitter Marble", "value": "XXX" },
-{ "name": "Guess 4G MagSafe", "value": "XXX" },
-{ "name": "Guess Flower MagSafe", "value": "XXX" },
-{ "name": "Guess Glitter Gold MagSafe", "value": "XXX" },
-{ "name": "Guess GCube Stripes MagSafe", "value": "XXX" },
-{ "name": "Guess Leopard MagSafe", "value": "XXX" },
-{ "name": "Guess Golden Marble MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Monogram", "value": "XXX" },
-{ "name": "Karl Lagerfeld 3D Rubber Ikonik", "value": "XXX" },
-{ "name": "Karl Lagerfeld Crossbody Saffiano Karl&Choupette", "value": "XXX" },
-{ "name": "Karl Lagerfeld Crossbody Saffiano Monogram Choupette", "value": "XXX" },
-{ "name": "Karl Lagerfeld Crossbody Saffiano Monogram Ikonik", "value": "XXX" },
-{ "name": "Spigen Fit Lite Ultra", "value": "XXX" },
-{ "name": "Spigen OneTap Pro 3", "value": "XXX" },
-{ "name": "Spigen Thin Fit Pro", "value": "XXX" },
-{ "name": "Guess 4G Printed Stripes MagSafe", "value": "XXX" },
-{ "name": "BMW M Collection MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Ikonik MagSafe", "value": "XXX" },
-{ "name": "BMW M Edition", "value": "XXX" },
-{ "name": "BMW Grip Hot Stamp", "value": "XXX" },
-{ "name": "BMW Signature MagSafe", "value": "XXX" },
-{ "name": "Guess Rhinestone Triangle Charm", "value": "XXX" },
-{ "name": "Guess Rhinestone Triangle", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Monogram Chain", "value": "XXX" },
-{ "name": "Spigen Glas.tR Slim Pro", "value": "XXX" },
-{ "name": "Kingxbar Phoenix Series", "value": "XXX" },
-{ "name": "Samsung Sport Band", "value": "XXX" },
-{ "name": "Samsung Slim Case", "value": "XXX" },
-{ "name": "Samsung Vegan Leather Case", "value": "XXX" },
-{ "name": "Samsung Gadget Case", "value": "XXX" },
-{ "name": "Samsung Smart Book Cover", "value": "XXX" },
-{ "name": "Samsung Outdoor Cover Case", "value": "XXX" },
-{ "name": "Samsung NotePaper", "value": "XXX" },
-{ "name": "Guess 4G Stripes", "value": "XXX" },
-{ "name": "Guess 4G Stripe Metal Logo", "value": "XXX" },
-{ "name": "BMW M Collection", "value": "XXX" },
-{ "name": "Guess GCube Stripes", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Signature", "value": "XXX" },
-{ "name": "AMG Case", "value": "XXX" },
-{ "name": "AMG Leather Curved Lines MagSafe", "value": "XXX" },
-{ "name": "BMW Stamped Tricolor Stripe", "value": "XXX" },
-{ "name": "BMW Quilted Tricolor MagSafe", "value": "XXX" },
-{ "name": "Nillkin CarboProp Case", "value": "XXX" },
-{ "name": "Caseology Parallax", "value": "XXX" },
-{ "name": "Spigen Tough Armor Pro Pen", "value": "XXX" },
-{ "name": "Spigen Thin Fit Pen", "value": "XXX" },
-{ "name": "Supcase Cosmo Pen", "value": "XXX" },
-{ "name": "Guess 3D Rubber 4G Diamond Charm", "value": "XXX" },
-{ "name": "Guess Acrylic 4G Charm", "value": "XXX" },
-{ "name": "Guess Saffiano Chain 4G Charm", "value": "XXX" },
-{ "name": "Guess Rhinestone", "value": "XXX" },
-{ "name": "Karl Lagerfeld 3D Rubber Glitter Logo", "value": "XXX" },
-{ "name": "Guess Strass Metal Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld CBDY Cord", "value": "XXX" },
-{ "name": "BMW Signature Liquid Silicone MagSafe", "value": "XXX" },
-{ "name": "Guess Liquid Silicone Glitter Triangle Charm", "value": "XXX" },
-{ "name": "Guess Glitter Script Big 4G", "value": "XXX" },
-{ "name": "Guess Crossbody 4G Metal Logo", "value": "XXX" },
-{ "name": "Guess Saffiano MagSafe", "value": "XXX" },
-{ "name": "Guess 4G Metal Script Logo", "value": "XXX" },
-{ "name": "Guess MagSafe 4G Classic Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld Liquid Glitter Karl&Choupette Heads", "value": "XXX" },
-{ "name": "Karl Lagerfeld Crossbody Saffiano Metal Pin Karl & Choupette", "value": "XXX" },
-{ "name": "Karl Lagerfeld Karl&Choupette Glitter MagSafe", "value": "XXX" },
-{ "name": "Baseus MagPro", "value": "XXX" },
-{ "name": "ESR Armor Tough Kickstand Halolock", "value": "XXX" },
-{ "name": "ESR Cloud Kickstand Halolock", "value": "XXX" },
-{ "name": "ESR Cloud Halolock MagSafe", "value": "XXX" },
-{ "name": "Spigen Core Armor Mag", "value": "XXX" },
-{ "name": "BMW Leather Hot Stamp", "value": "XXX" },
-{ "name": "Guess GCube Charm", "value": "XXX" },
-{ "name": "Guess Fixed Glitter Heart Diamond Charm", "value": "XXX" },
-{ "name": "Guess Silicone Logo Strass 4G", "value": "XXX" },
-{ "name": "Guess IML Faceted Mirror Disco Iridescent", "value": "XXX" },
-{ "name": "Guess Leather 4G Stamped", "value": "XXX" },
-{ "name": "Guess Leather 4G Diamond Triangle", "value": "XXX" },
-{ "name": "Guess Croco Triangle Metal Logo", "value": "XXX" },
-{ "name": "Guess Rhinestone Metal Logo", "value": "XXX" },
-{ "name": "Guess Disco Metal Script", "value": "XXX" },
-{ "name": "Guess Sequin Script Metal", "value": "XXX" },
-{ "name": "Guess Quilted Metal Logo", "value": "XXX" },
-{ "name": "Guess Leather 4G Triangle Strass", "value": "XXX" },
-{ "name": "Guess IML Iridescent MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Choupette Metal Pin", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Ikonik Metal Pin", "value": "XXX" },
-{ "name": "Karl Lagerfeld 3D Rubber Multi Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld Monogram Choupette", "value": "XXX" },
-{ "name": "Karl Lagerfeld Monogram Ikonik", "value": "XXX" },
-{ "name": "Karl Lagerfeld Leather Monogram Hot Stamp Metal Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld Crossbody Saffiano Monogram Metal Pin Karl & Choupette", "value": "XXX" },
-{ "name": "Karl Lagerfeld IML Choupette's Head MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld IML Choupette MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld IML Ikonik MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld IML Karl's Head MagSafe", "value": "XXX" },
-{ "name": "Spigen Glas.tR EZ Fit Optik Pro", "value": "XXX" },
-{ "name": "ESR Armorite", "value": "XXX" },
-{ "name": "ESR Tempered Glass Privacy", "value": "XXX" },
-{ "name": "Karl Lagerfeld Liquid Glitter Choupette", "value": "XXX" },
-{ "name": "Karl Lagerfeld Liquid Glitter Ikonik", "value": "XXX" },
-{ "name": "Starry Series", "value": "XXX" },
-{ "name": "Supcase UB XT Mag", "value": "XXX" },
-{ "name": "Supcase IBLSN Ares Mag", "value": "XXX" },
-{ "name": "Supcase Cosmo Mag", "value": "XXX" },
-{ "name": "Spigen Classic C1 Mag", "value": "XXX" },
-{ "name": "Guess Perforated 4G Glitter", "value": "XXX" },
-{ "name": "Spigen Airskin Pro", "value": "XXX" },
-{ "name": "BMW M Gradient MagSafe", "value": "XXX" },
-{ "name": "Guess Glitter Glossy Script", "value": "XXX" },
-{ "name": "Guess Silicone Script Metal Logo & Frame", "value": "XXX" },
-{ "name": "Karl Lagerfeld Fixed Glitter Choupette Logo Metal Pin", "value": "XXX" },
-{ "name": "Karl Lagerfeld Fixed Glitter Ikonik Logo Metal Pin", "value": "XXX" },
-{ "name": "Karl Lagerfeld Rhinestone Logo Metal Plate", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Cardslots and Stand Monogram Choupette", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Cardslots and Stand Monogram Ikonik Patch", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Cardslot Karl&Choupette Metal Pin", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Karl&Choupette Pin", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Monogram Ikonik Pin", "value": "XXX" },
-{ "name": "Spigen OneTap Ring", "value": "XXX" },
-{ "name": "Spigen Enzo Aramid Mag", "value": "XXX" },
-{ "name": "BMW IML Signature MagSafe", "value": "XXX" },
-{ "name": "Spigen ArcStation", "value": "XXX" },
-{ "name": "Karl Lagerfeld Crossbody Silicone Choupette", "value": "XXX" },
-{ "name": "Karl Lagerfeld Crossbody Silicone Ikonik", "value": "XXX" },
-{ "name": "Karl Lagerfeld Ring Stand Karl&Choupettte MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Ring Stand Choupette Head MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Ring Stand Karl Head MagSafe", "value": "XXX" },
-{ "name": "ESR Pulse Halolock Magsafe", "value": "XXX" },
-{ "name": "Joyroom Funpods Series", "value": "XXX" },
-{ "name": "Kingxbar PQY Crack Series", "value": "XXX" },
-{ "name": "Spigen Wallet S Pro", "value": "XXX" },
-{ "name": "BMW Grip Stand Smooth & Carbon", "value": "XXX" },
-{ "name": "BMW Grip Stand Smooth & Perforated", "value": "XXX" },
-{ "name": "BMW Ring Stand M Collection MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld 3D Rubber Choupette Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld 3D Rubber Karl&Choupette Heads", "value": "XXX" },
-{ "name": "Karl Lagerfeld 3D Rubber Karl Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld 3D Rubber Choupette Heads", "value": "XXX" },
-{ "name": "Spigen Optik.tR EZ Fit Camera Protector", "value": "XXX" },
-{ "name": "Guess Grip Stand 4G Triangle Strass", "value": "XXX" },
-{ "name": "Guess Grip Stand 4G Saffiano Strass", "value": "XXX" },
-{ "name": "Guess IML 4G MagSafe", "value": "XXX" },
-{ "name": "Guess Ring Stand Script Glitter MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Gripstand Saffiano Choupette Pins", "value": "XXX" },
-{ "name": "Karl Lagerfeld Gripstand Saffiano Karl&Choupette Pins", "value": "XXX" },
-{ "name": "Karl Lagerfeld Quilted K Pattern", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Karl&Choupette Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Karl Script", "value": "XXX" },
-{ "name": "Samsung Rugged Case", "value": "XXX" },
-{ "name": "BMW Silicone Blue&Red Stripes M Collection", "value": "XXX" },
-{ "name": "Guess Crossbody Cord 4G Print", "value": "XXX" },
-{ "name": "Guess 4G Chain CBDY Strap", "value": "XXX" },
-{ "name": "AMG Silicone Carbon Pattern MagSafe", "value": "XXX" },
-{ "name": "AMG Silicone Large Rhombuses Pattern MagSafe", "value": "XXX" },
-{ "name": "Guess 4G Pattern MagSafe", "value": "XXX" },
-{ "name": "Samsung Book Cover", "value": "XXX" },
-{ "name": "Samsung Shield Case", "value": "XXX" },
-{ "name": "Samsung Standing Grip Case", "value": "XXX" },
-{ "name": "Samsung Suit Case", "value": "XXX" },
-{ "name": "Samsung Card Slot Case", "value": "XXX" },
-{ "name": "ESR Armor Kickstand", "value": "XXX" },
-{ "name": "Supcase IBLSN Armorbox Mag", "value": "XXX" },
-{ "name": "ESR Flickstand Boost Halolock", "value": "XXX" },
-{ "name": "Spigen Slim Armor MagSafe", "value": "XXX" },
-{ "name": "Guess 4G Collection Leather Metal Logo MagSafe", "value": "XXX" },
-{ "name": "ESR Protector", "value": "XXX" },
-{ "name": "Joyroom Ben Series", "value": "XXX" },
-{ "name": "BMW Signature Leather Crossing Lines Pattern", "value": "XXX" },
-{ "name": "BMW Carbon Tricolor Line MagSafe", "value": "XXX" },
-{ "name": "BMW Signature Leather Textured & Line MagSafe", "value": "XXX" },
-{ "name": "BMW Signature Leather Half Textured & Circle MagSafe", "value": "XXX" },
-{ "name": "Guess 4G Triangle Metal Logo", "value": "XXX" },
-{ "name": "Guess Saffiano Iridescent Script", "value": "XXX" },
-{ "name": "Guess IML 4G Gold Stripe", "value": "XXX" },
-{ "name": "Guess Liquid Glitter Gold Stripes", "value": "XXX" },
-{ "name": "Guess IML Flowers Wreath MagSafe", "value": "XXX" },
-{ "name": "Guess IML GCube MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld IML Choupette", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Karl&Choupette Metal Pin", "value": "XXX" },
-{ "name": "Karl Lagerfeld 3D Rubber Karl&Choupette", "value": "XXX" },
-{ "name": "Karl Lagerfeld IML Karl&Choupette MagSafe", "value": "XXX" },
-{ "name": "Joyroom IceLens Series", "value": "XXX" },
-{ "name": "Joyroom Cozydots Series", "value": "XXX" },
-{ "name": "Ugreen HiTune", "value": "XXX" },
-{ "name": "Spigen Lite Fit Pro", "value": "XXX" },
-{ "name": "BMW M Edition Carbon Stripe & Strap", "value": "XXX" },
-{ "name": "BMW M Edition Carbon Tricolor Lines & Strap", "value": "XXX" },
-{ "name": "BMW Perforated Tricolor Line", "value": "XXX" },
-{ "name": "BMW Signature Leather Wordmark Cord", "value": "XXX" },
-{ "name": "BMW M Grip Stand Bicolor", "value": "XXX" },
-{ "name": "BMW M Quilted Tricolor", "value": "XXX" },
-{ "name": "BMW M Silicone Tricolor Lines", "value": "XXX" },
-{ "name": "BMW Signature Wrapped Metal MagSafe", "value": "XXX" },
-{ "name": "BMW M Quilted Tricolor MagSafe", "value": "XXX" },
-{ "name": "BMW M Silicone Pattern MagSafe", "value": "XXX" },
-{ "name": "BMW Perforated Twisted Line MagSafe", "value": "XXX" },
-{ "name": "BMW M Tricolor Stripes MagSafe", "value": "XXX" },
-{ "name": "BMW Silicone Big Logo MagSafe", "value": "XXX" },
-{ "name": "BMW M Silicone Printed Ring MagSafe", "value": "XXX" },
-{ "name": "BMW Motorsport IML Circle MagSafe", "value": "XXX" },
-{ "name": "Guess 4G Triangle", "value": "XXX" },
-{ "name": "Karl Lagerfeld Rhinestone Metal Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld IML Karl&Choupette Glitter MagSafe", "value": "XXX" },
-{ "name": "BMW M Silicone Pattern", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Karl&Choupette Metal Pin", "value": "XXX" },
-{ "name": "Nillkin Flex Pure Fold Case", "value": "XXX" },
-{ "name": "Nillkin Super Frosted Shield Fold", "value": "XXX" },
-{ "name": "Nillkin CamShield Fold Case", "value": "XXX" },
-{ "name": "Nillkin CamShield Armor Prop Case", "value": "XXX" },
-{ "name": "Nillkin Adventurer Pro", "value": "XXX" },
-{ "name": "Nillkin Textured Prop Magnetic Case", "value": "XXX" },
-{ "name": "Nillkin CamShield Prop Magnetic Case", "value": "XXX" },
-{ "name": "Nillkin CamShield Prop Leather Magnetic Case", "value": "XXX" },
-{ "name": "Nillkin CamShield Silky Prop Silicone Case", "value": "XXX" },
-{ "name": "Nillkin Bumper SnapSafe", "value": "XXX" },
-{ "name": "Nillkin Bumper Leather Case Pro", "value": "XXX" },
-{ "name": "Joyroom Star Shield Case", "value": "XXX" },
-{ "name": "Guess Quilted 4G", "value": "XXX" },
-{ "name": "Guess Zip GCube Bottom Stripe", "value": "XXX" },
-{ "name": "Guess Zip Triangle 4G", "value": "XXX" },
-{ "name": "Spigen Enzo Aramid", "value": "XXX" },
-{ "name": "AMG Transparent Bicolor MagSafe", "value": "XXX" },
-{ "name": "Guess Zip 4G Triangle", "value": "XXX" },
-{ "name": "Guess Zip Quilted 4G", "value": "XXX" },
-{ "name": "Nillkin Iceblade Prop", "value": "XXX" },
-{ "name": "ESR Shift Magnetic", "value": "XXX" },
-{ "name": "ESR Rebound Hybrid", "value": "XXX" },
-{ "name": "ESR Paper Feel Magnetic", "value": "XXX" },
-{ "name": "ESR Classic Pro Set Halolock MagSafe", "value": "XXX" },
-{ "name": "Guess Ebossed Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld IML Mono KL Pattern & Cord", "value": "XXX" },
-{ "name": "Karl Lagerfeld IML Fullover Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld IML Zebra Pattern & Cord", "value": "XXX" },
-{ "name": "Karl Lagerfeld Saffiano Rhinestones & Charm", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Metal Script Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld IML Choupette Head&Cord MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Leather Monogram Metal Logo", "value": "XXX" },
-{ "name": "Karl Lagerfeld Silicone Karl&Choupette Ring MagSafe", "value": "XXX" },
-{ "name": "PanzerGlass Bang ON", "value": "XXX" },
-{ "name": "PanzerGlass Biodegradable Case", "value": "XXX" },
-{ "name": "PanzerGlass Bundle 3in1", "value": "XXX" },
-{ "name": "PanzerGlass Camera Protector", "value": "XXX" },
-{ "name": "PanzerGlass Classic Fit", "value": "XXX" },
-{ "name": "PanzerGlass ClearCase", "value": "XXX" },
-{ "name": "PanzerGlass Curved Super", "value": "XXX" },
-{ "name": "PanzerGlass E2E Microfracture", "value": "XXX" },
-{ "name": "PanzerGlass E2E Pro Super", "value": "XXX" },
-{ "name": "PanzerGlass E2E Regular", "value": "XXX" },
-{ "name": "PanzerGlass E2E Super", "value": "XXX" },
-{ "name": "PanzerGlass E2E Super+ Microfracture", "value": "XXX" },
-{ "name": "PanzerGlass Full Body", "value": "XXX" },
-{ "name": "PanzerGlass Screen Protector", "value": "XXX" },
-{ "name": "PanzerGlass GraphicPaper", "value": "XXX" },
-{ "name": "PanzerGlass HardCase", "value": "XXX" },
-{ "name": "PanzerGlass Hoops Camera", "value": "XXX" },
-{ "name": "PanzerGlass Matrix", "value": "XXX" },
-{ "name": "PanzerGlass Matrix Ultra-Wide Fit", "value": "XXX" },
-{ "name": "PanzerGlass Picture Perfect", "value": "XXX" },
-{ "name": "PanzerGlass E2E Pro Regular", "value": "XXX" },
-{ "name": "PanzerGlass Pro Standard Super", "value": "XXX" },
-{ "name": "PanzerGlass SmartWatch", "value": "XXX" },
-{ "name": "PanzerGlass Accessories", "value": "XXX" },
-{ "name": "PanzerGlass Standard Fit", "value": "XXX" },
-{ "name": "PanzerGlass Standard", "value": "XXX" },
-{ "name": "PanzerGlass Standard Super", "value": "XXX" },
-{ "name": "PanzerGlass Super", "value": "XXX" },
-{ "name": "PanzerGlass Ultra-Wide Fit", "value": "XXX" },
-{ "name": "Karl Lagerfeld Monogram Choupette Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld Monogram Karl & Choupette Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld Monogram Karl Head", "value": "XXX" },
-{ "name": "Karl Lagerfeld IML Choupette Head & Monogram", "value": "XXX" },
-{ "name": "Karl Lagerfeld Liquid Glitter Choupette Head MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld IML Crossbody Monogram Karl & Choupette Head MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Crossbody IML Karl Head MagSafe", "value": "XXX" },
-{ "name": "Karl Lagerfeld Liquid Glitter Karl Head MagSafe", "value": "XXX" },
-{ "name": "PanzerGlass Ceramic Protection", "value": "XXX" },
-{ "name": "SAFE by PanzerGlass", "value": "XXX" },
-{ "name": "Tech-Protect Waterproof Case", "value": "XXX" },
-{ "name": "Tech-Protect Smooth", "value": "XXX" },
-{ "name": "Tech-Protect SmartCase", "value": "XXX" },
-{ "name": "Tech-Protect SteelBand", "value": "XXX" },
-{ "name": "Tech-Protect HardPouch", "value": "XXX" },
-{ "name": "Tech-Protect Leather", "value": "XXX" },
-{ "name": "Tech-Protect SmartShell", "value": "XXX" },
-{ "name": "Tech-Protect Stylus", "value": "XXX" },
-{ "name": "Tech-Protect Touch Stylus", "value": "XXX" },
-{ "name": "Tech-Protect FlexAir", "value": "XXX" },
-{ "name": "Tech-Protect Pocket", "value": "XXX" },
-{ "name": "Tech-Protect AirBag", "value": "XXX" },
-{ "name": "Tech-Protect Battery Pack", "value": "XXX" },
-{ "name": "Tech-Protect IconBand", "value": "XXX" },
-{ "name": "Tech-Protect Nylon", "value": "XXX" },
-{ "name": "Tech-Protect MilaneseBand", "value": "XXX" },
-{ "name": "Tech-Protect LinkBand", "value": "XXX" },
-{ "name": "Tech-Protect Stainless", "value": "XXX" },
-{ "name": "Tech-Protect SC Pen", "value": "XXX" },
-{ "name": "Tech-Protect Wallet", "value": "XXX" },
-{ "name": "Tech-Protect Accessories", "value": "XXX" },
-{ "name": "Tech-Protect Survive", "value": "XXX" },
-{ "name": "Tech-Protect Solid360", "value": "XXX" },
-{ "name": "Tech-Protect Active Stylus", "value": "XXX" },
-{ "name": "Tech-Protect Armour", "value": "XXX" },
-{ "name": "Tech-Protect Charm Stylus", "value": "XXX" },
-{ "name": "Tech-Protect Defense360", "value": "XXX" },
-{ "name": "Tech-Protect MagMat MagSafe", "value": "XXX" },
-{ "name": "Tech-Protect Icon", "value": "XXX" },
-{ "name": "Tech-Protect V1", "value": "XXX" },
-{ "name": "Tech-Protect V3", "value": "XXX" },
-{ "name": "Tech-Protect V2", "value": "XXX" },
-{ "name": "Tech-Protect Loop", "value": "XXX" },
-{ "name": "Tech-Protect Marble", "value": "XXX" },
-{ "name": "Tech-Protect X-Armor", "value": "XXX" },
-{ "name": "Tech-Protect LifeMag", "value": "XXX" },
-{ "name": "Tech-Protect Mellow", "value": "XXX" },
-{ "name": "Tech-Protect Modern", "value": "XXX" },
-{ "name": "Tech-Protect Thin Milanese", "value": "XXX" },
-{ "name": "Tech-Protect PowerCase", "value": "XXX" },
-{ "name": "Tech-Protect ScrewBand", "value": "XXX" },
-{ "name": "Tech-Protect MilaneseBand 2", "value": "XXX" },
-{ "name": "Tech-Protect PureSkin", "value": "XXX" },
-{ "name": "Tech-Protect Icon 2", "value": "XXX" },
-{ "name": "Tech-Protect Smart View", "value": "XXX" },
-{ "name": "Tech-Protect MattFit", "value": "XXX" },
-{ "name": "Tech-Protect SC Pen + Keyboard", "value": "XXX" },
-{ "name": "Tech-Protect IconBand Pro", "value": "XXX" },
-{ "name": "Tech-Protect TPUCarbon", "value": "XXX" },
-{ "name": "Tech-Protect Ombre Stylus", "value": "XXX" },
-{ "name": "Tech-Protect FlexAir Chain", "value": "XXX" },
-{ "name": "Tech-Protect FlexAir Hybrid", "value": "XXX" },
-{ "name": "Tech-Protect FlexAir Hybrid MagSafe", "value": "XXX" },
-{ "name": "Tech-Protect ShellBox", "value": "XXX" },
-{ "name": "Tech-Protect MetalPlate", "value": "XXX" },
-{ "name": "Tech-Protect SmartCase Magnetic", "value": "XXX" },
-{ "name": "Tech-Protect Rough", "value": "XXX" },
-{ "name": "Tech-Protect Icon Hook", "value": "XXX" },
-{ "name": "Tech-Protect X-Carbo", "value": "XXX" },
-{ "name": "Tech-Protect FlexAir Pro", "value": "XXX" },
-{ "name": "Tech-Protect SC Pen Hybrid", "value": "XXX" },
-{ "name": "Tech-Protect CamShield Pro", "value": "XXX" },
-{ "name": "Tech-Protect LeatherFit", "value": "XXX" },
-{ "name": "Tech-Protect Nylon Pro", "value": "XXX" },
-{ "name": "Tech-Protect Supreme Set", "value": "XXX" },
-{ "name": "Tech-Protect UltraBoost", "value": "XXX" },
-{ "name": "Tech-Protect UltraBoost 2", "value": "XXX" },
-{ "name": "Tech-Protect Icon MagSafe", "value": "XXX" },
-{ "name": "Tech-Protect Mood", "value": "XXX" },
-{ "name": "Tech-Protect SmartCase + Keyboard", "value": "XXX" },
-{ "name": "Tech-Protect Kevlar Pro", "value": "XXX" },
-{ "name": "Tech-Protect Kevlar", "value": "XXX" },
-{ "name": "Tech-Protect Velar", "value": "XXX" },
-{ "name": "Tech-Protect Supreme", "value": "XXX" },
-{ "name": "Tech-Protect Icon Chain", "value": "XXX" },
-{ "name": "Tech-Protect KidsCase", "value": "XXX" },
-{ "name": "Tech-Protect SoftBand", "value": "XXX" },
-{ "name": "Tech-Protect IconBand Line", "value": "XXX" },
-{ "name": "Tech-Protect MagShine Line MagSafe", "value": "XXX" },
-{ "name": "Tech-Protect Wallet MagSafe", "value": "XXX" },
-{ "name": "Tech-Protect Kevlar Pro Pen", "value": "XXX" },
-{ "name": "Tech-Protect Icon Ring", "value": "XXX" },
-{ "name": "Tech-Protect Mood Marble", "value": "XXX" },
-{ "name": "Tech-Protect Defense", "value": "XXX" },
-{ "name": "Tech-Protect UltraBoost L", "value": "XXX" },
-{ "name": "Tech-Protect MagMood MagSafe", "value": "XXX" },
-{ "name": "Tech-Protect Silicone MagSafe", "value": "XXX" },
-{ "name": "Tech-Protect MagMat", "value": "XXX" },
-{ "name": "Tech-Protect MagMat Cam+ MagSafe", "value": "XXX" },
-{ "name": "Hofi Glass Pro", "value": "XXX" },
-{ "name": "Tech-Protect Scout", "value": "XXX" },
-{ "name": "Tech-Protect UltraBoost Classic", "value": "XXX" },
-{ "name": "Tech-Protect Scout Pro 2", "value": "XXX" },
-{ "name": "Tech-Protect UltraBoost Evo", "value": "XXX" },
-{ "name": "Tech-Protect Kevlar Cam", "value": "XXX" },
-{ "name": "Tech-Protect Delta Pro", "value": "XXX" },
-{ "name": "Tech-Protect MagMat 2 MagSafe", "value": "XXX" },
-{ "name": "Tech-Protect Scout Pro", "value": "XXX" },
-{ "name": "Tech-Protect Kevlar MagSafe", "value": "XXX" },
-{ "name": "Tech-Protect IconBand Magnetic", "value": "XXX" },
-{ "name": "Tech-Protect SC Pen Origami", "value": "XXX" },
-{ "name": "Tech-Protect Stainless Line", "value": "XXX" }
+    {
+        "name": "AMG Carbon Stripe&Embossed",
+        "value": "XXX"
+    },
+    {
+        "name": "AMG Case",
+        "value": "XXX"
+    },
+    {
+        "name": "AMG Leather Big Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "AMG Leather Curved Lines",
+        "value": "XXX"
+    },
+    {
+        "name": "AMG Leather Curved Lines MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "AMG Leather Debossed Lines",
+        "value": "XXX"
+    },
+    {
+        "name": "AMG Leather Hot Stamped",
+        "value": "XXX"
+    },
+    {
+        "name": "AMG Silicone Big Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "AMG Silicone Carbon Pattern MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "AMG Silicone Large Rhombuses Pattern MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "AMG Transparent Bicolor MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Accessories",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Carbon & Blue Stripe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Carbon & Red Stripe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Carbon Double Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Carbon Tricolor",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Carbon Tricolor Line MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Carbon&Nylon Tricolor",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Carbon&Perforated",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Case",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Genuine Leather Silver Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Gradient Bumper MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Grip Hot Stamp",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Grip Stand Smooth & Carbon",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Grip Stand Smooth & Perforated",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Hardcase",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW IML Signature MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW IML Tricolor Stripe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Blue Dots",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Carbon",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Card Slot",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Curve Perforate",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Curved Line",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Deboss",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Diamond Pattern",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Diamond Pattern MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Emboss",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Hot Stamp",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Hot Stamp MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Perforate",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Perforate Sides",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Quilted",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Seats Pattern",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Seats Pattern MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Stamp",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Stamp Blue Lines",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Stamp Tricolor",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Stamp Tricolor MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Leather Textured & Stripe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW M Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW M Collection MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW M Collection PU Carbon Stripe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW M Collection Smooth PU",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW M Collection Triangles",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW M Edition",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW M Edition Carbon Stripe & Strap",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW M Edition Carbon Tricolor Lines & Strap",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW M Gradient MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW M Grip Stand Bicolor",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW M Quilted Tricolor",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW M Quilted Tricolor MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW M Silicone Pattern",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW M Silicone Pattern MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW M Silicone Printed Ring MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW M Silicone Tricolor Lines",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW M Tricolor Stripes MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Motorsport IML Circle MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Motorsport Tricolor",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Multiple Colored Lines",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW PU Carbon M Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Pattern MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Perforated",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Perforated Tricolor Line",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Perforated Twisted Line MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Quilted Tricolor",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Quilted Tricolor MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Ring Stand M Collection MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Sandblast",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Signature",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Signature Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Signature Leather Crossing Lines Pattern",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Signature Leather Half Textured & Circle MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Signature Leather Textured & Line MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Signature Leather Wordmark Cord",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Signature Liquid Silicone MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Signature Logo Imprint",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Signature Logo Imprint MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Signature MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Signature Printed Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Signature Tire Marks",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Signature Wrapped Metal MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Silicone Big Logo MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Silicone Blue&Red Stripes M Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Silicone M Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Silicone Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Silicone Metal Logo MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Silicone Signature",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Silicone Signature Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Silicone Signature Logo MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Silicone Slanted Stripes",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Silicone Stripes M Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Silver Ring MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Stamped Tricolor Stripe",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Tricolor M Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Tricolor Stripes",
+        "value": "XXX"
+    },
+    {
+        "name": "BMW Tricolor Stripes MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus 0,3 mm Crystal Full-glass",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus 0.3mm Eye-Protection Tempered Glass",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus 0.3mm Privacy Protection Tempered Glass",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus 0.3mm Tempered Glass",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus 0.4mm Privacy Protection Tempered Glass",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus 0.4mm Tempered Glass",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Adaman",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Bipow",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Bipow Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Bowie",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Brilliance Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Cafule",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Camera Glass",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Corning Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Crystal Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Crystal Shine Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Dynamic Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Encok",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Frosted Glass Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Full-frame Lens Film",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Glimmer Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Golden Contactor Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Gravity",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus High Definition Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus MVP Elbow Type",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus MagPro",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Magic Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Magnetic Mini",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Nimble",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Paperlike Film",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Qpow",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Rapid Series 3in1",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Simple",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Simple 2 Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Super Energy",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Super Si",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Superior Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Synthetic Fiber",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Three Primary Colors",
+        "value": "XXX"
+    },
+    {
+        "name": "Baseus Tungsten Gold",
+        "value": "XXX"
+    },
+    {
+        "name": "Canvaslife Briefcase",
+        "value": "XXX"
+    },
+    {
+        "name": "Canvaslife Sleeve",
+        "value": "XXX"
+    },
+    {
+        "name": "Caseology Parallax",
+        "value": "XXX"
+    },
+    {
+        "name": "Caseology Parallax Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Caseology Skyfall",
+        "value": "XXX"
+    },
+    {
+        "name": "Choetech MFM Case",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Air Armor",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Air Armor Halolock",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Air Shield Boost",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Armor Kickstand",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Armor Tough Kickstand Halolock",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Armorite",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Ascend Hybrid",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Ascend Trifold",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Bounce",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Camera Lens",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Camera Protector",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Classic Hybrid",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Classic Hybrid Halolock",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Classic Kickstand",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Classic Kickstand Halolock",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Classic Pro Set Halolock MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Cloud Halolock MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Cloud Kickstand Halolock",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Cyber Armor Halolock",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Digital",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Flickstand Boost Halolock",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Halolock",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Halolock CryoBoost",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Halolock MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Halolock Magnetic",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Ice Shield",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Krystec",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Krystec Halolock",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Orbit Halolock",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Paper Feel",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Paper Feel Magnetic",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Project Zero",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Protector",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Pulse Halolock Magsafe",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Rebound Hybrid",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Rebound Magnetic",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Rebound Pencil",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Screen Shield",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Shift Magnetic",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Shock Armor Kickstand",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Tempered Glass",
+        "value": "XXX"
+    },
+    {
+        "name": "ESR Tempered Glass Privacy",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 3D Rubber 4G Diamond Charm",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G 3D Pattern Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Big Liquid Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Big Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Big Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Brown Strap Gold Chain",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Chain CBDY Strap",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Charms Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Circle Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Collection Leather Metal Logo MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Collection MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Double Layer Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Gold Chain",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Gold Charms Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Gradient",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Grey Strap Charm",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Grey Strap Silver Chain",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Liquid Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Logo Plate MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Metal Gold Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Metal Script Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Pattern MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Pattern Script",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Peony Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Print MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Print Strap",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Printed Stripes",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Printed Stripes MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Ring Stand",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Script Metal Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Silver Chain",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Silver Charms Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Stripe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Stripe Allover",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Stripe Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Stripe Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Stripes",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Triangle",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Triangle Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Triangle Logo Cardslot",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Triangle Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Uptown",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Uptown Triangle Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess 4G Vintage Gold Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Accessories",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Acrylic 4G Charm",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Bandana Paisley",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Black Pearl",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess CBDY Cord",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess CBDY Strap",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess California",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess California Glow in the dark",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Camo Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Camo Strap Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Charm 4G Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Croco Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Croco Strap Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Croco Triangle Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Crossbody 4G Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Crossbody Cord 4G Print",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Disco Metal Script",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Ebossed Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Fixed Glitter Heart Diamond Charm",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Flower Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Flower Liquid Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Flower MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Flower Strap",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Flower Strap Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess GCube Charm",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess GCube Stripes",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess GCube Stripes MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Glitter 4G Big Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Glitter 4G Circle Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Glitter Charms",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Glitter Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Glitter Flake 4G Charm",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Glitter Glossy Script",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Glitter Gold MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Glitter Gradient",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Glitter Gradient Script",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Glitter Hearts",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Glitter Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Glitter Script",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Glitter Script Big 4G",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Glitter Triangle",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Glitter Vintage Script",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Glow in the Dark",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Gold Chain Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Gold Outline Translucent MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Golden Marble Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Golden Marble MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Gradient Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Gradient Liquid Glitter 4G",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Gradient Liquid Glitter Circle Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Grip Stand 4G Saffiano Strass",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Grip Stand 4G Triangle Strass",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Heishi Beads",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess IML 4G Gold Stripe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess IML 4G MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess IML Faceted Mirror Disco Iridescent",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess IML Flowers Wreath MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess IML GCube MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess IML Iridescent MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Iridescent",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Iridescent 4G Peony",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Iridescent Love Script Gold Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Jeans Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Jungle Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Jungle MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Leather 4G Diamond Triangle",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Leather 4G Stamped",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Leather 4G Triangle Strass",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Leopard",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Leopard Gold Chain",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Leopard MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Liquid Glitter 4G Transculent",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Liquid Glitter Gold Stripes",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Liquid Glitter Marble",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Liquid Glitter Palm Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Liquid Glitter Party",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Liquid Silicone Glitter Triangle Charm",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess MagSafe 4G Classic Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Marble",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Marble Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Marble MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Marble Strap Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Metal Logo Cord",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Metal Logo Script",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Metal Outline MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Metallic Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess N.1 Flower Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess N.2 Flower Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess N.3 Flower Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess N.4 Flower Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Nylon Triangle Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Paisley Liquid Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Paisley Strap Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Peony Chain Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Peony Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Peony Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Peony Liquid Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Peony Logo Plate MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Perforated 4G Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Porcelain Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Python Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Quilted",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Quilted 4G",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Quilted Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Rhinestone",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Rhinestone Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Rhinestone Triangle",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Rhinestone Triangle Charm",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Ring Stand",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Ring Stand Script Glitter MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Saffiano",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Saffiano 4G Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Saffiano 4G Small Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Saffiano 4G Triangle Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Saffiano Chain 4G Charm",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Saffiano Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Saffiano Hot Stamp & Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Saffiano Iridescent Script",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Saffiano MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Saffiano Script",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Saffiano Script Metal Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Saffiano Strap",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Saffiano Stripe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Saffiano Triangle",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Saffiano Triangle Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Saffiano Triangle Logo Cardslot",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Saffiano Vintage Script",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Script Python Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Script Vintage",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Sequin Script Metal",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Silicone 4G Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Silicone 4G Tone On Tone",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Silicone Charm 4G Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Silicone Charm Heart Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Silicone Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Silicone Logo Plate MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Silicone Logo Strass 4G",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Silicone Script Gold Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Silicone Script Gold Logo MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Silicone Script Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Silicone Script Metal Logo & Frame",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Silicone Triangle",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Silicone Triangle Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Silicone Vintage",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Silicone Vintage Gold Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Silicone Vintage Script",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Strap Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Strass Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Tie & Dye Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Translucent",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Translucent Pearl Strap",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Translucent Strap",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Triangle 4G",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Triangle Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Uptown",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess V-Quilted Collection",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Vintage Script Gold",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Vintage Script Silver",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess White Pearl",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Zip 4G Triangle",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Zip GCube Bottom Stripe",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Zip Quilted 4G",
+        "value": "XXX"
+    },
+    {
+        "name": "Guess Zip Triangle 4G",
+        "value": "XXX"
+    },
+    {
+        "name": "Hofi Glass Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom 14D Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom 14D Magnetic Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom 14Q Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom 14X Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom 360 Full Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Ben Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Chery Mirror Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Color Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Cozydots Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Crystal Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Defender Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Dual Hinge",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Frigate Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Funpods Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom IceLens Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Jelly Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Knight 2,5D FS TG",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Knight 2,5D Privacy TG",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Knight 2,5D TG",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Knight Anti Blue Light",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Magnetic Defender Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Mingkai Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Mirror Lens Protector",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom New Beautiful Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom New Beauty Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom New T Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Joyroom Star Shield Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld 3D Monogram",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld 3D Rubber Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld 3D Rubber Choupette Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld 3D Rubber Choupette Heads",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld 3D Rubber Glitter Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld 3D Rubber Ikonik",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld 3D Rubber Karl Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld 3D Rubber Karl&Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld 3D Rubber Karl&Choupette Heads",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld 3D Rubber Karl's Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld 3D Rubber Multi Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Accessories",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Allover",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld CBDY Cord",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Choupette Body",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Choupette Eat",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Choupette Fun",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Choupette Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Color Stripes Strap",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Crossbody IML Karl Head MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Crossbody Saffiano Karl&Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Crossbody Saffiano Metal Pin Karl & Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Crossbody Saffiano Monogram Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Crossbody Saffiano Monogram Ikonik",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Crossbody Saffiano Monogram Metal Pin Karl & Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Crossbody Silicone Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Crossbody Silicone Ikonik",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Fixed Glitter Choupette Logo Metal Pin",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Fixed Glitter Ikonik Logo Metal Pin",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Flower Ikonik Karl",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Glitter Charms",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Glitter Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Glitter Choupette Fluo",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Glitter Choupette Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Glitter Choupette Patch",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Glitter Flakes Ikonik",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Glitter Ikonik Karl",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Glitter Karl&Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Glitter Karl's & Choupette Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Glitter Karl's Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Glitter Plaque Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Glitter Signature",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Gradient Ikonik Karl",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Gradient Ikonik Karl&Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Gripstand Saffiano Choupette Pins",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Gripstand Saffiano Karl&Choupette Pins",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld IML Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld IML Choupette Head & Monogram",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld IML Choupette Head&Cord MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld IML Choupette MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld IML Choupette's Head MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld IML Crossbody Monogram Karl & Choupette Head MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld IML Fullover Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld IML Ikonik MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld IML Karl&Choupette Glitter MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld IML Karl&Choupette MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld IML Karl's Head MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld IML Mono KL Pattern & Cord",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld IML Zebra Pattern & Cord",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Iconic Karl Embossed",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Iconic Karl&Choupette MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Iconik Karl",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Ikonik Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Ikonik Karl",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Ikonik Karl Monogram Patch",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Ikonik Karl&Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Ikonik Karl's Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Ikonik Liquid Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Ikonik MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Ikonik Patch",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Iridescent Karl's Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Karl Logo Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Karl&Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Karl&Choupette Aluminium MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Karl&Choupette Glitter MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Karl&Choupette Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Karl&Choupette Ikonik 3D",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Karl's Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Karlimals Cardslot",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Leather Ikonik Karl's Head Metal",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Leather Monogram Hot Stamp Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Leather Monogram Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Leather Perforated Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Leather Textured and Chain",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Liquid Glitter Big KL",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Liquid Glitter Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Liquid Glitter Choupette Fun",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Liquid Glitter Choupette Head MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Liquid Glitter Elong",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Liquid Glitter Gatsby",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Liquid Glitter Ikonik",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Liquid Glitter Karl Head MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Liquid Glitter Karl&Choupette Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Liquid Glitter Karl&Choupette Heads",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Liquid Glitter Monogram",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Liquid Glitter RSG",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Liquid Silicone Karl&Choupette MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Magic Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Metal Karl Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Mirror Liquid Glitter Karl",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Mono Vertical Stripe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Monogram Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Monogram Choupette Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Monogram Ikonik",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Monogram Ikonik Patch",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Monogram Iridescent",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Monogram Karl & Choupette Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Monogram Karl Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Monogram Plaque",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Monogram Plaque Logo Strap",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Monogram Stripe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Multipink Brand",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Peek-A-Boo Liquid Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Perforated Allover",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Puffy Elongated Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Puffy Ikonik Pin",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Quilted K Pattern",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Rhinestone Logo Metal Plate",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Rhinestone Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Ring Stand Choupette Head MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Ring Stand Karl Head MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Ring Stand Karl&Choupettte MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Cardslot Karl&Choupette Metal Pin",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Cardslots and Stand Monogram Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Cardslots and Stand Monogram Ikonik Patch",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Choupette Head Patch",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Ikonik Choupette Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Ikonik Karl",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Ikonik Karl&Choupette Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Ikonik Karl's Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Ikonik Karl's Patch",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Ikonik Metal",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Karl Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Karl&Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Karl&Choupette Embossed",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Karl&Choupette Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Karl&Choupette Metal Pin",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Karl&Choupette Pin",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Karl's Head Patch",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Metal Karl Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Mono Metal Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Monogram",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Monogram Chain",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Monogram Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Monogram Ikonik",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Monogram Ikonik Pin",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Plaque",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano RSG",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Saffiano Rhinestones & Charm",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Signature Glitter",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Signature Logo Cardslot",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Choupette Body",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Choupette Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Choupette Head 3D",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Choupette Head MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Choupette Heads",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Choupette MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Choupette Metal Pin",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Ikonik",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Ikonik Karl&Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Ikonik Karl&Choupette MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Ikonik MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Ikonik Metal Pin",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Karl Head 3D",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Karl Heads",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Karl Script",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Karl&Choupette",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Karl&Choupette Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Karl&Choupette Heads",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Karl&Choupette MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Karl&Choupette Metal Pin",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Karl&Choupette Ring MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Karl's Head",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Karl's Head MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Metal Script Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Plaque",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Plaque MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone RSG",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Signature",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Silicone Stack Logo",
+        "value": "XXX"
+    },
+    {
+        "name": "Karl Lagerfeld Transparent Ikonik",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar 2.5D Tempered Glass",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Agate Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Angel",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Blossom",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Butterfly Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar CYF106",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar CYF134",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar CYF136",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar CYF140",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar CYF148",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar CYF537",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Crystal Fabric Band",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Elegant Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Epoxy Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Flora Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Heart Star Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Lucky Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Magnetic Band",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Marble Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Miya Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Moon Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar New Chameleon Band",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Ombre Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar PQY Crack Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar PQY Elegant Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar PQY Fluorescence Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar PQY Geek Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar PQY Go Out Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar PQY Ice Crystal Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar PQY Silicone Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Phoenix Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Plain Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Plush Pods Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Shell Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Sparkle Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Starry Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Streamer Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Sweet Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Travel Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Watercolour Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Kingxbar Wish Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Mercedes Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Mercedes Pattern Line",
+        "value": "XXX"
+    },
+    {
+        "name": "Mercedes Pure Line",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Adventurer Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Adventurer Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Amazing H",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Amazing H+ Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Aoge Leather Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Bevel Leather Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Bumper Leather Case Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Bumper SnapSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CP+PRO",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CamShield Armor Pro Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CamShield Armor Pro Magnetic Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CamShield Armor Prop Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CamShield Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CamShield Fold Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CamShield Leather S Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CamShield Magnetic Silicone Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CamShield Pro Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CamShield Pro Magnetic Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CamShield Prop Leather Magnetic Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CamShield Prop Magnetic Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CamShield S Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CamShield S Magnetic Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CamShield Silky Magnetic Silicone Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CamShield Silky Prop Silicone Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CamShield Silky Silicone Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin CarboProp Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Cyclops Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Flex Pure Fold Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Iceblade Prop",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Nature",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Nature Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Nature Pro Magnetic Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Pure Series AR Film",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Qin",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Qin Cloth Pro Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Qin Leather",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Qin Leather Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin SnapLink",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Strap Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Super Frosted Shield",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Super Frosted Shield Fold",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Super Frosted Shield Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Super Frosted Shield Pro Magnetic Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Synthetic Fiber Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Synthetic Fiber S Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Textured Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Textured Prop Magnetic Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Textured S Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Textured S Magnetic Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Nillkin Versatile Laptop Sleeve",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Accessories",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Bang ON",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Biodegradable Case",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Bundle 3in1",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Camera Protector",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Ceramic Protection",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Classic Fit",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass ClearCase",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Curved Super",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass E2E Microfracture",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass E2E Pro Regular",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass E2E Pro Super",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass E2E Regular",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass E2E Super",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass E2E Super+ Microfracture",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Full Body",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass GraphicPaper",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass HardCase",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Hoops Camera",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Matrix",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Matrix Ultra-Wide Fit",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Picture Perfect",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Pro Standard Super",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Screen Protector",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass SmartWatch",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Standard",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Standard Fit",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Standard Super",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Super",
+        "value": "XXX"
+    },
+    {
+        "name": "PanzerGlass Ultra-Wide Fit",
+        "value": "XXX"
+    },
+    {
+        "name": "Ringke Air",
+        "value": "XXX"
+    },
+    {
+        "name": "Ringke Folio Signature",
+        "value": "XXX"
+    },
+    {
+        "name": "Ringke Fusion",
+        "value": "XXX"
+    },
+    {
+        "name": "Ringke Fusion Bumper",
+        "value": "XXX"
+    },
+    {
+        "name": "Ringke Fusion Magnetic",
+        "value": "XXX"
+    },
+    {
+        "name": "Ringke Fusion Matte",
+        "value": "XXX"
+    },
+    {
+        "name": "Ringke Fusion X",
+        "value": "XXX"
+    },
+    {
+        "name": "Ringke Fusion X Design",
+        "value": "XXX"
+    },
+    {
+        "name": "Ringke Onyx",
+        "value": "XXX"
+    },
+    {
+        "name": "Ringke Silicone",
+        "value": "XXX"
+    },
+    {
+        "name": "Ringke Smart Zip Pouch",
+        "value": "XXX"
+    },
+    {
+        "name": "SAFE by PanzerGlass",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Accessories",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Book Cover",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Card Slot Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Clear Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Clear Gadget Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Flap Leather Cover",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Frame Cover",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Gadget Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Haze Grip Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Leather Cover",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Note View Cover",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung NotePaper",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Outdoor Cover Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Rugged Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Rugged Gadget Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung S-Pen",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Screen Protector",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Shield Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Silicone Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Silicone Grip Cover",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Slim Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Smart Book Cover",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Smart View Wallet Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Soft Clear Cover",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Sport Band",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Standing Grip Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Strap Silicone Cover",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Suit Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Samsung Vegan Leather Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen ALM Glas.tR",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen ALM Glas.tR Slim",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen ALM Glass FC",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Accessories",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Airskin",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Airskin Hybrid",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Airskin Hybrid S",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Airskin Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Aqua Shield",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen ArcField",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen ArcStation",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Classic C1 Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Core Armor",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Core Armor Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Cryo Armor",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Crystal Hybrid",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Crystal Pack",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Cyrill Cecile",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Cyrill Cecile Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Cyrill Classic Charm Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Cyrill Color Brick",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Cyrill Kajuk",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Cyrill Kajuk Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Cyrill Shine Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Cyrill Ultra Color",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Cyrill Ultra Color Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen DuraPro",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Enzo Aramid",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Enzo Aramid Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Fit Lite",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Fit Lite Ultra",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Gearlock",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Geo Armor 360 Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Glas.tR EZ Fit",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Glas.tR EZ Fit AntiBlue",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Glas.tR EZ Fit FC",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Glas.tR EZ Fit Optik Camera Protector",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Glas.tR EZ Fit Optik Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Glas.tR EZ Fit Privacy",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Glas.tR Platinum",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Glas.tR Slim",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Glas.tR Slim Privacy",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Glas.tR Slim Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Glass FC",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Klasden",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Linear",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Liquid Air",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Liquid Air Folio",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Liquid Crystal",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Lite Fit Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Mag Armor",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen MagFit",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Metal Fit Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Modern Fit Band",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Neo Flex",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Neo Flex HD",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Neo Hybrid",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Neo Hybrid S Pen",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen OneTap",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen OneTap Pro 3",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen OneTap Ring",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Optik Armor",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Optik Armor MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Optik Crystal",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Optik.tR Camera Protector",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Optik.tR EZ Fit Camera Protector",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Paper Touch",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen PowerArc",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen ProFlex EZ Fit",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Quartz Hybrid",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Rugged Armor",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Rugged Armor Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Rugged Armor Pouch Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Rugged Armor Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Rugged Band",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Silicone Fit",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Silicone Fit Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Silicone Fit Strap",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Slim Armor",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Slim Armor CS",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Slim Armor MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Slim Armor Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Slim Armor Pro Pen",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Smart Fold",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Thin Fit",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Thin Fit 360",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Thin Fit Pen",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Thin Fit Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Tough Armor",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Tough Armor MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Tough Armor Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Tough Armor Pro Pen",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Ultra Hybrid",
+        "value": "20650"
+    },
+    {
+        "name": "Spigen Ultra Hybrid Mag",
+        "value": "20650"
+    },
+    {
+        "name": "Spigen Ultra Hybrid OneTap Ring",
+        "value": "20650"
+    },
+    {
+        "name": "Spigen Ultra Hybrid Pro",
+        "value": "20650"
+    },
+    {
+        "name": "Spigen Ultra Hybrid S",
+        "value": "20650"
+    },
+    {
+        "name": "Spigen Urban Fit",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Valentinus",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Wallet S",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Wallet S Plus",
+        "value": "XXX"
+    },
+    {
+        "name": "Spigen Wallet S Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Starry Series",
+        "value": "XXX"
+    },
+    {
+        "name": "Supcase Cosmo",
+        "value": "XXX"
+    },
+    {
+        "name": "Supcase Cosmo Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Supcase Cosmo Pen",
+        "value": "XXX"
+    },
+    {
+        "name": "Supcase Edge XT",
+        "value": "XXX"
+    },
+    {
+        "name": "Supcase IBLSN Ares",
+        "value": "XXX"
+    },
+    {
+        "name": "Supcase IBLSN Ares Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Supcase IBLSN Armorbox",
+        "value": "XXX"
+    },
+    {
+        "name": "Supcase IBLSN Armorbox Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Supcase IBLSN Cosmo Snap",
+        "value": "XXX"
+    },
+    {
+        "name": "Supcase UB Edge Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Supcase UB Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Supcase UB Pro Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Supcase UB XT Mag",
+        "value": "XXX"
+    },
+    {
+        "name": "Supcase Unicorn Beetle",
+        "value": "XXX"
+    },
+    {
+        "name": "Supcase Unicorn Beetle Clear",
+        "value": "XXX"
+    },
+    {
+        "name": "Supcase Unicorn Beetle Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Supcase Unicorn Beetle Pro Pen",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Accessories",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Active Stylus",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect AirBag",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Armour",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Battery Pack",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect CamShield Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Charm Stylus",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Defense",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Defense360",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Delta Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect FlexAir",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect FlexAir Chain",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect FlexAir Hybrid",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect FlexAir Hybrid MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect FlexAir Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect HardPouch",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Icon",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Icon 2",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Icon Chain",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Icon Hook",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Icon MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Icon Ring",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect IconBand",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect IconBand Line",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect IconBand Magnetic",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect IconBand Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Kevlar",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Kevlar Cam",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Kevlar MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Kevlar Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Kevlar Pro Pen",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect KidsCase",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Leather",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect LeatherFit",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect LifeMag",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect LinkBand",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Loop",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect MagMat",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect MagMat 2 MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect MagMat Cam+ MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect MagMat MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect MagMood MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect MagShine Line MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Marble",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect MattFit",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Mellow",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect MetalPlate",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect MilaneseBand",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect MilaneseBand 2",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Modern",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Mood",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Mood Marble",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Nylon",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Nylon Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Ombre Stylus",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Pocket",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect PowerCase",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect PureSkin",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Rough",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect SC Pen",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect SC Pen + Keyboard",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect SC Pen Hybrid",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect SC Pen Origami",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Scout",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Scout Pro",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Scout Pro 2",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect ScrewBand",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect ShellBox",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Silicone MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Smart View",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect SmartCase",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect SmartCase + Keyboard",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect SmartCase Magnetic",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect SmartShell",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Smooth",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect SoftBand",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Solid360",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Stainless",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Stainless Line",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect SteelBand",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Stylus",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Supreme",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Supreme Set",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Survive",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect TPUCarbon",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Thin Milanese",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Touch Stylus",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect UltraBoost",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect UltraBoost 2",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect UltraBoost Classic",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect UltraBoost Evo",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect UltraBoost L",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect V1",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect V2",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect V3",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Velar",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Wallet",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Wallet MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect Waterproof Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect X-Armor",
+        "value": "XXX"
+    },
+    {
+        "name": "Tech-Protect X-Carbo",
+        "value": "XXX"
+    },
+    {
+        "name": "Tronsmart Onyx Ace Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Ugreen",
+        "value": "XXX"
+    },
+    {
+        "name": "Ugreen Bright Cushion Protective Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Ugreen Classy Clear Enhanced Protective Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Ugreen Fusion Kickstand Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Ugreen HiTune",
+        "value": "XXX"
+    },
+    {
+        "name": "Ugreen Nexode",
+        "value": "XXX"
+    },
+    {
+        "name": "Ugreen Protective Silicone Case",
+        "value": "XXX"
+    },
+    {
+        "name": "Ugreen Silky Silicone Protective Case",
+        "value": "XXX"
+    },
+    {
+        "name": "iCarer CE Oil Wax Premium Leather Folio Case",
+        "value": "XXX"
+    },
+    {
+        "name": "iCarer CE Premium Leather Folio Case",
+        "value": "XXX"
+    },
+    {
+        "name": "iCarer Case Leather MagSafe",
+        "value": "XXX"
+    },
+    {
+        "name": "iCarer Case Leather Oil Wax",
+        "value": "XXX"
+    },
+    {
+        "name": "iCarer Haitang Leather Wallet Case",
+        "value": "XXX"
+    },
+    {
+        "name": "iCarer Litchi Premium Leather Case",
+        "value": "XXX"
+    },
+    {
+        "name": "iCarer Oil Wax Premium Leather Case",
+        "value": "XXX"
+    },
+    {
+        "name": "iCarer Oil Wax Wallet Case (RFID 2in1 Detachable)",
+        "value": "XXX"
+    },
+    {
+        "name": "iCarer Wallet Case (RFID 2in1 Detachable)",
+        "value": "XXX"
+    },
+    {
+        "name": "iCarer Watch Strap Leather Vintage",
+        "value": "XXX"
+    }
 ]
