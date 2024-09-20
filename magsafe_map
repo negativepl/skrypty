@@ -1,5 +1,6 @@
 [
     { "name": "MagSafe", "value": "14429" },
     { "name": "Magnetic", "value": "14429" },
+    { "name": "MagCase", "value": "14429" },
     { "name": "MagClick", "value": "14429" }
 ]
